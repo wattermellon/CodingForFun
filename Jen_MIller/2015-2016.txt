@@ -1,0 +1,1106 @@
+Entresto	Argentina	Y	H	Latin America and Carribean
+Nucala	Argentina	Y	H	Latin America and Carribean
+Taltz	Argentina	Y	H	Latin America and Carribean
+Praluent	Argentina	Y	H	Latin America and Carribean
+Uptravi	Argentina	Y	H	Latin America and Carribean
+Cresemba	Argentina	Y	H	Latin America and Carribean
+Lenvima	Argentina	Y	H	Latin America and Carribean
+Avycaz	Argentina	Y	H	Latin America and Carribean
+Savaysa	Argentina	Y	H	Latin America and Carribean
+Adlyxin	Argentina	Y	H	Latin America and Carribean
+Yondelis	Argentina	N	H	Latin America and Carribean
+Cosentyx	Argentina	N	H	Latin America and Carribean
+Daklinza	Argentina	N	H	Latin America and Carribean
+Farydak	Argentina	N	H	Latin America and Carribean
+Kanuma	Argentina	N	H	Latin America and Carribean
+Cinqair	Argentina	N	H	Latin America and Carribean
+Lartruvo	Argentina	N	H	Latin America and Carribean
+Zinbryta	Argentina	N	H	Latin America and Carribean
+Genvoya	Australia	Y	H	Oceania
+Cotellic	Australia	Y	H	Oceania
+Briviact	Australia	Y	H	Oceania
+Epclusa	Australia	Y	H	Oceania
+Taltz	Australia	Y	H	Oceania
+Orkambi	Australia	Y	H	Oceania
+Tagrisso	Australia	Y	H	Oceania
+Venclexta	Australia	Y	H	Oceania
+Empliciti	Australia	Y	H	Oceania
+Spinraza	Australia	Y	H	Oceania
+Tecentriq	Australia	Y	H	Oceania
+Addyi	Australia	Y	H	Oceania
+Cinqair	Australia	Y	H	Oceania
+Ibrance	Australia	Y	H	Oceania
+Ocaliva	Australia	Y	H	Oceania
+Avycaz	Australia	Y	H	Oceania
+Nucala	Australia	N	H	Oceania
+Praluent	Australia	N	H	Oceania
+Yondelis	Australia	N	H	Oceania
+Uptravi	Australia	N	H	Oceania
+Darzalex	Australia	N	H	Oceania
+Ninlaro	Australia	N	H	Oceania
+Kanuma	Australia	N	H	Oceania
+Strensiq	Australia	N	H	Oceania
+Lonsurf	Australia	N	H	Oceania
+Odomzo	Australia	N	H	Oceania
+Lenvima	Australia	N	H	Oceania
+Entresto	Australia	N	H	Oceania
+Repatha	Australia	N	H	Oceania
+Cresemba	Australia	N	H	Oceania
+Cosentyx	Australia	N	H	Oceania
+Unituxin	Australia	N	H	Oceania
+Daklinza	Australia	N	H	Oceania
+Farydak	Australia	N	H	Oceania
+Kybella	Australia	N	H	Oceania
+Portrazza	Australia	N	H	Oceania
+Savaysa	Australia	N	H	Oceania
+Zurampic	Australia	N	H	Oceania
+Adlyxin	Australia	N	H	Oceania
+Eucrisa	Australia	N	H	Oceania
+Lartruvo	Australia	N	H	Oceania
+Rubraca	Australia	N	H	Oceania
+Zinbryta	Australia	N	H	Oceania
+Yondelis	Austria	Y	H	Western Europe
+Bridion	Austria	Y	H	Western Europe
+Addyi	Austria	Y	H	Western Europe
+Adlyxin	Austria	Y	H	Western Europe
+Venclexta	Austria	Y	H	Western Europe
+Daklinza	Austria	Y	H	Western Europe
+Briviact	Austria	Y	H	Western Europe
+Repatha	Austria	Y	H	Western Europe
+Cotellic	Austria	Y	H	Western Europe
+Genvoya	Austria	Y	H	Western Europe
+Odomzo	Austria	Y	H	Western Europe
+Lartruvo	Austria	Y	H	Western Europe
+Praluent	Austria	Y	H	Western Europe
+Taltz	Austria	Y	H	Western Europe
+Portrazza	Austria	Y	H	Western Europe
+Lenvima	Austria	Y	H	Western Europe
+Entresto	Austria	Y	H	Western Europe
+Orkambi	Austria	Y	H	Western Europe
+Uptravi	Austria	Y	H	Western Europe
+Empliciti	Austria	Y	H	Western Europe
+Savaysa	Austria	Y	H	Western Europe
+Farydak	Austria	Y	H	Western Europe
+Ocaliva	Austria	Y	H	Western Europe
+Lonsurf	Austria	Y	H	Western Europe
+Ninlaro	Austria	Y	H	Western Europe
+Tecentriq	Austria	Y	H	Western Europe
+Nuplazid	Austria	N	H	Western Europe
+Savaysa	Belarus	N	UM	Eastern Europe
+Uptravi	Belarus	N	UM	Eastern Europe
+Adlyxin	Belarus	N	UM	Eastern Europe
+Yondelis	Belgium	Y	H	Western Europe
+Bridion	Belgium	Y	H	Western Europe
+Addyi	Belgium	Y	H	Western Europe
+Adlyxin	Belgium	Y	H	Western Europe
+Venclexta	Belgium	Y	H	Western Europe
+Briviact	Belgium	Y	H	Western Europe
+Repatha	Belgium	Y	H	Western Europe
+Cosentyx	Belgium	Y	H	Western Europe
+Cotellic	Belgium	Y	H	Western Europe
+Genvoya	Belgium	Y	H	Western Europe
+Nucala	Belgium	Y	H	Western Europe
+Odomzo	Belgium	Y	H	Western Europe
+Epclusa	Belgium	Y	H	Western Europe
+Lartruvo	Belgium	Y	H	Western Europe
+Praluent	Belgium	Y	H	Western Europe
+Zurampic	Belgium	Y	H	Western Europe
+Taltz	Belgium	Y	H	Western Europe
+Portrazza	Belgium	Y	H	Western Europe
+Tagrisso	Belgium	Y	H	Western Europe
+Lenvima	Belgium	Y	H	Western Europe
+Entresto	Belgium	Y	H	Western Europe
+Orkambi	Belgium	Y	H	Western Europe
+Uptravi	Belgium	Y	H	Western Europe
+Cinqair	Belgium	Y	H	Western Europe
+Empliciti	Belgium	Y	H	Western Europe
+Savaysa	Belgium	Y	H	Western Europe
+Spinraza	Belgium	Y	H	Western Europe
+Darzalex	Belgium	Y	H	Western Europe
+Farydak	Belgium	Y	H	Western Europe
+Ocaliva	Belgium	Y	H	Western Europe
+Cresemba	Belgium	Y	H	Western Europe
+Lonsurf	Belgium	Y	H	Western Europe
+Ninlaro	Belgium	Y	H	Western Europe
+Avycaz	Belgium	Y	H	Western Europe
+Tecentriq	Belgium	Y	H	Western Europe
+Ibrance	Belgium	Y	H	Western Europe
+Kybella	Belgium	Y	H	Western Europe
+Natpara	Belgium	Y	H	Western Europe
+Alecensa	Belgium	Y	H	Western Europe
+Nuplazid	Belgium	N	H	Western Europe
+Alecensa	Bosnia and Herzegovina	Y	UM	Eastern Europe
+Tecentriq	Bosnia and Herzegovina	Y	UM	Eastern Europe
+Adlyxin	Bulgaria	Y	UM	Eastern Europe
+Aristada	Bulgaria	Y	UM	Eastern Europe
+Briviact	Bulgaria	Y	UM	Eastern Europe
+Nucala	Bulgaria	Y	UM	Eastern Europe
+Praluent	Bulgaria	Y	UM	Eastern Europe
+Zurampic	Bulgaria	Y	UM	Eastern Europe
+Taltz	Bulgaria	Y	UM	Eastern Europe
+Tagrisso	Bulgaria	Y	UM	Eastern Europe
+Entresto	Bulgaria	Y	UM	Eastern Europe
+Savaysa	Bulgaria	Y	UM	Eastern Europe
+Unituxin	Bulgaria	Y	UM	Eastern Europe
+Avycaz	Bulgaria	Y	UM	Eastern Europe
+Tecentriq	Bulgaria	Y	UM	Eastern Europe
+Vraylar	Bulgaria	Y	UM	Eastern Europe
+Nuplazid	Bulgaria	N	UM	Eastern Europe
+Natpara	Canada	Y	H	Canada
+Yondelis	Canada	Y	H	Canada
+Corlanor	Canada	Y	H	Canada
+Daklinza	Canada	Y	H	Canada
+Repatha	Canada	Y	H	Canada
+Epclusa	Canada	Y	H	Canada
+Genvoya	Canada	Y	H	Canada
+Adlyxin	Canada	Y	H	Canada
+Bridion	Canada	Y	H	Canada
+Entresto	Canada	Y	H	Canada
+Nucala	Canada	Y	H	Canada
+Uptravi	Canada	Y	H	Canada
+Taltz	Canada	Y	H	Canada
+Empliciti	Canada	Y	H	Canada
+Orkambi	Canada	Y	H	Canada
+Venclexta	Canada	Y	H	Canada
+Darzalex	Canada	Y	H	Canada
+Strensiq	Canada	Y	H	Canada
+Kybella	Canada	Y	H	Canada
+Tagrisso	Canada	Y	H	Canada
+Spinraza	Canada	Y	H	Canada
+Alecensa	Canada	Y	H	Canada
+Zinbryta	Canada	Y	H	Canada
+Cinqair	Canada	Y	H	Canada
+Tecentriq	Canada	Y	H	Canada
+Praluent	Canada	Y	H	Canada
+Ocaliva	Canada	Y	H	Canada
+Lenvima	Canada	Y	H	Canada
+Cosentyx	Canada	Y	H	Canada
+Ibrance	Canada	Y	H	Canada
+Lartruvo	Canada	Y	H	Canada
+Portrazza	Canada	Y	H	Canada
+Defitelio	Canada	Y	H	Canada
+Rexulti	Canada	Y	H	Canada
+Viberzi	Canada	Y	H	Canada
+Addyi	Canada	Y	H	Canada
+Savaysa	Canada	Y	H	Canada
+Cresemba	Canada	Y	H	Canada
+Cotellic	Canada	Y	H	Canada
+Briviact	Canada	Y	H	Canada
+Unituxin	Canada	Y	H	Canada
+Odomzo	Canada	N	H	Canada
+Vraylar	Canada	N	H	Canada
+Avycaz	Canada	N	H	Canada
+Farydak	Canada	N	H	Canada
+Zurampic	Canada	N	H	Canada
+Nuplazid	Canada	N	H	Canada
+Rubraca	Canada	N	H	Canada
+Zinplava	Canada	N	H	Canada
+Yondelis	Chile	Y	H	Latin America and Carribean
+Uptravi	Chile	Y	H	Latin America and Carribean
+Nucala	Chile	Y	H	Latin America and Carribean
+Praxbind	Chile	Y	H	Latin America and Carribean
+Entresto	Chile	Y	H	Latin America and Carribean
+Alecensa	Chile	Y	H	Latin America and Carribean
+Cinqair	Chile	Y	H	Latin America and Carribean
+Cresemba	Chile	Y	H	Latin America and Carribean
+Avycaz	Chile	Y	H	Latin America and Carribean
+Lenvima	Chile	Y	H	Latin America and Carribean
+Praluent	Chile	N	H	Latin America and Carribean
+Savaysa	Chile	N	H	Latin America and Carribean
+Adlyxin	Chile	N	H	Latin America and Carribean
+Taltz	Chile	N	H	Latin America and Carribean
+Tagrisso	China	Y	UM	Asia
+Epclusa	China	Y	UM	Asia
+Entresto	China	Y	UM	Asia
+Ninlaro	China	Y	UM	Asia
+Alecensa	China	Y	UM	Asia
+Uptravi	China	Y	UM	Asia
+Adlyxin	China	Y	UM	Asia
+Avycaz	China	Y	UM	Asia
+Savaysa	China	Y	UM	Asia
+Cresemba	China	N	UM	Asia
+Farydak	China	N	UM	Asia
+Yondelis	China	N	UM	Asia
+Adlyxin	Colombia	Y	UM	Latin America and Carribean
+Entresto	Colombia	Y	UM	Latin America and Carribean
+Uptravi	Colombia	N	UM	Latin America and Carribean
+Cosentyx	Colombia	N	UM	Latin America and Carribean
+Praluent	Colombia	N	UM	Latin America and Carribean
+Rexulti	Colombia	N	UM	Latin America and Carribean
+Savaysa	Colombia	N	UM	Latin America and Carribean
+Vraylar	Colombia	N	UM	Latin America and Carribean
+Cinqair	Colombia	N	UM	Latin America and Carribean
+Alecensa	Costa Rica	N	UM	Latin America and Carribean
+Adlyxin	Croatia	Y	H	Eastern Europe
+Kanuma	Croatia	Y	H	Eastern Europe
+Portrazza	Croatia	Y	H	Eastern Europe
+Entresto	Croatia	Y	H	Eastern Europe
+Savaysa	Croatia	Y	H	Eastern Europe
+Avycaz	Croatia	Y	H	Eastern Europe
+Veltassa	Croatia	Y	H	Eastern Europe
+Vraylar	Croatia	Y	H	Eastern Europe
+Rexulti	Croatia	Y	H	Eastern Europe
+Addyi	Czech Republic	Y	H	Eastern Europe
+Adlyxin	Czech Republic	Y	H	Eastern Europe
+Venclexta	Czech Republic	Y	H	Eastern Europe
+Kanuma	Czech Republic	Y	H	Eastern Europe
+Briviact	Czech Republic	Y	H	Eastern Europe
+Repatha	Czech Republic	Y	H	Eastern Europe
+Cotellic	Czech Republic	Y	H	Eastern Europe
+Nucala	Czech Republic	Y	H	Eastern Europe
+Lartruvo	Czech Republic	Y	H	Eastern Europe
+Praluent	Czech Republic	Y	H	Eastern Europe
+Praxbind	Czech Republic	Y	H	Eastern Europe
+Zurampic	Czech Republic	Y	H	Eastern Europe
+Taltz	Czech Republic	Y	H	Eastern Europe
+Zinbryta	Czech Republic	Y	H	Eastern Europe
+Tagrisso	Czech Republic	Y	H	Eastern Europe
+Lenvima	Czech Republic	Y	H	Eastern Europe
+Entresto	Czech Republic	Y	H	Eastern Europe
+Orkambi	Czech Republic	Y	H	Eastern Europe
+Uptravi	Czech Republic	Y	H	Eastern Europe
+Cinqair	Czech Republic	Y	H	Eastern Europe
+Empliciti	Czech Republic	Y	H	Eastern Europe
+Savaysa	Czech Republic	Y	H	Eastern Europe
+Darzalex	Czech Republic	Y	H	Eastern Europe
+Farydak	Czech Republic	Y	H	Eastern Europe
+Lonsurf	Czech Republic	Y	H	Eastern Europe
+Ninlaro	Czech Republic	Y	H	Eastern Europe
+Avycaz	Czech Republic	Y	H	Eastern Europe
+Tecentriq	Czech Republic	Y	H	Eastern Europe
+Ibrance	Czech Republic	Y	H	Eastern Europe
+Veltassa	Czech Republic	Y	H	Eastern Europe
+Yondelis	Denmark	Y	H	Western Europe
+Adlyxin	Denmark	Y	H	Western Europe
+Venclexta	Denmark	Y	H	Western Europe
+Daklinza	Denmark	Y	H	Western Europe
+Repatha	Denmark	Y	H	Western Europe
+Genvoya	Denmark	Y	H	Western Europe
+Odomzo	Denmark	Y	H	Western Europe
+Lartruvo	Denmark	Y	H	Western Europe
+Praluent	Denmark	Y	H	Western Europe
+Taltz	Denmark	Y	H	Western Europe
+Zinbryta	Denmark	Y	H	Western Europe
+Lenvima	Denmark	Y	H	Western Europe
+Entresto	Denmark	Y	H	Western Europe
+Orkambi	Denmark	Y	H	Western Europe
+Uptravi	Denmark	Y	H	Western Europe
+Cinqair	Denmark	Y	H	Western Europe
+Empliciti	Denmark	Y	H	Western Europe
+Savaysa	Denmark	Y	H	Western Europe
+Darzalex	Denmark	Y	H	Western Europe
+Farydak	Denmark	Y	H	Western Europe
+Ninlaro	Denmark	Y	H	Western Europe
+Avycaz	Denmark	Y	H	Western Europe
+Tecentriq	Denmark	Y	H	Western Europe
+Veltassa	Denmark	Y	H	Western Europe
+Natpara	Denmark	Y	H	Western Europe
+Alecensa	Denmark	Y	H	Western Europe
+Entresto	Dominican Republic	Y	UM	Latin America and Carribean
+Genvoya	Dominican Republic	Y	UM	Latin America and Carribean
+Entresto	Ecuador	N	UM	Latin America and Carribean
+Adlyxin	Ecuador	N	UM	Latin America and Carribean
+Alecensa	Egypt	Y	LM	Africa
+Kanuma	Egypt	N	LM	Africa
+Cosentyx	Egypt	N	LM	Africa
+Cresemba	Egypt	N	LM	Africa
+Farydak	Egypt	N	LM	Africa
+Adlyxin	Egypt	N	LM	Africa
+Adlyxin	Estonia	Y	H	Eastern Europe
+Briviact	Estonia	Y	H	Eastern Europe
+Cosentyx	Estonia	Y	H	Eastern Europe
+Nucala	Estonia	Y	H	Eastern Europe
+Praxbind	Estonia	Y	H	Eastern Europe
+Taltz	Estonia	Y	H	Eastern Europe
+Entresto	Estonia	Y	H	Eastern Europe
+Savaysa	Estonia	Y	H	Eastern Europe
+Vraylar	Estonia	Y	H	Eastern Europe
+Addyi	Finland	Y	H	Western Europe
+Adlyxin	Finland	Y	H	Western Europe
+Briviact	Finland	Y	H	Western Europe
+Cosentyx	Finland	Y	H	Western Europe
+Lartruvo	Finland	Y	H	Western Europe
+Praluent	Finland	Y	H	Western Europe
+Zinbryta	Finland	Y	H	Western Europe
+Entresto	Finland	Y	H	Western Europe
+Savaysa	Finland	Y	H	Western Europe
+Farydak	Finland	Y	H	Western Europe
+Avycaz	Finland	Y	H	Western Europe
+Tecentriq	Finland	Y	H	Western Europe
+Vraylar	Finland	Y	H	Western Europe
+Corlanor	France	Y	H	Western Europe
+Yondelis	France	Y	H	Western Europe
+Addyi	France	Y	H	Western Europe
+Adlyxin	France	Y	H	Western Europe
+Venclexta	France	Y	H	Western Europe
+Daklinza	France	Y	H	Western Europe
+Kanuma	France	Y	H	Western Europe
+Briviact	France	Y	H	Western Europe
+Repatha	France	Y	H	Western Europe
+Strensiq	France	Y	H	Western Europe
+Cosentyx	France	Y	H	Western Europe
+Cotellic	France	Y	H	Western Europe
+Genvoya	France	Y	H	Western Europe
+Nucala	France	Y	H	Western Europe
+Odomzo	France	Y	H	Western Europe
+Epclusa	France	Y	H	Western Europe
+Lartruvo	France	Y	H	Western Europe
+Praluent	France	Y	H	Western Europe
+Taltz	France	Y	H	Western Europe
+Zinbryta	France	Y	H	Western Europe
+Portrazza	France	Y	H	Western Europe
+Tagrisso	France	Y	H	Western Europe
+Lenvima	France	Y	H	Western Europe
+Entresto	France	Y	H	Western Europe
+Orkambi	France	Y	H	Western Europe
+Uptravi	France	Y	H	Western Europe
+Cinqair	France	Y	H	Western Europe
+Empliciti	France	Y	H	Western Europe
+Savaysa	France	Y	H	Western Europe
+Unituxin	France	Y	H	Western Europe
+Spinraza	France	Y	H	Western Europe
+Darzalex	France	Y	H	Western Europe
+Farydak	France	Y	H	Western Europe
+Ocaliva	France	Y	H	Western Europe
+Cresemba	France	Y	H	Western Europe
+Lonsurf	France	Y	H	Western Europe
+Ninlaro	France	Y	H	Western Europe
+Avycaz	France	Y	H	Western Europe
+Tecentriq	France	Y	H	Western Europe
+Rubraca	France	Y	H	Western Europe
+Ibrance	France	Y	H	Western Europe
+Kybella	France	Y	H	Western Europe
+Natpara	France	Y	H	Western Europe
+Alecensa	France	Y	H	Western Europe
+Rexulti	France	Y	H	Western Europe
+Nuplazid	France	N	H	Western Europe
+Tecentriq	Georgia	Y	LM	Eastern Europe
+Unituxin	Georgia	N	LM	Eastern Europe
+Veltassa	Georgia	N	LM	Eastern Europe
+Zurampic	Georgia	N	LM	Eastern Europe
+Adlyxin	Georgia	N	LM	Eastern Europe
+Zinbryta	Georgia	N	LM	Eastern Europe
+Yondelis	Germany	Y	H	Western Europe
+Bridion	Germany	Y	H	Western Europe
+Addyi	Germany	Y	H	Western Europe
+Adlyxin	Germany	Y	H	Western Europe
+Venclexta	Germany	Y	H	Western Europe
+Daklinza	Germany	Y	H	Western Europe
+Kanuma	Germany	Y	H	Western Europe
+Briviact	Germany	Y	H	Western Europe
+Repatha	Germany	Y	H	Western Europe
+Strensiq	Germany	Y	H	Western Europe
+Cosentyx	Germany	Y	H	Western Europe
+Cotellic	Germany	Y	H	Western Europe
+Genvoya	Germany	Y	H	Western Europe
+Nucala	Germany	Y	H	Western Europe
+Odomzo	Germany	Y	H	Western Europe
+Epclusa	Germany	Y	H	Western Europe
+Lartruvo	Germany	Y	H	Western Europe
+Praluent	Germany	Y	H	Western Europe
+Zurampic	Germany	Y	H	Western Europe
+Taltz	Germany	Y	H	Western Europe
+Zinbryta	Germany	Y	H	Western Europe
+Portrazza	Germany	Y	H	Western Europe
+Tagrisso	Germany	Y	H	Western Europe
+Lenvima	Germany	Y	H	Western Europe
+Entresto	Germany	Y	H	Western Europe
+Orkambi	Germany	Y	H	Western Europe
+Uptravi	Germany	Y	H	Western Europe
+Cinqair	Germany	Y	H	Western Europe
+Empliciti	Germany	Y	H	Western Europe
+Savaysa	Germany	Y	H	Western Europe
+Spinraza	Germany	Y	H	Western Europe
+Darzalex	Germany	Y	H	Western Europe
+Farydak	Germany	Y	H	Western Europe
+Ocaliva	Germany	Y	H	Western Europe
+Cresemba	Germany	Y	H	Western Europe
+Lonsurf	Germany	Y	H	Western Europe
+Ninlaro	Germany	Y	H	Western Europe
+Avycaz	Germany	Y	H	Western Europe
+Tecentriq	Germany	Y	H	Western Europe
+Ibrance	Germany	Y	H	Western Europe
+Kybella	Germany	Y	H	Western Europe
+Alecensa	Germany	Y	H	Western Europe
+Rexulti	Germany	Y	H	Western Europe
+Adlyxin	Greece	Y	H	Western Europe
+Nucala	Greece	Y	H	Western Europe
+Odomzo	Greece	Y	H	Western Europe
+Zinbryta	Greece	Y	H	Western Europe
+Portrazza	Greece	Y	H	Western Europe
+Entresto	Greece	Y	H	Western Europe
+Uptravi	Greece	Y	H	Western Europe
+Cinqair	Greece	Y	H	Western Europe
+Empliciti	Greece	Y	H	Western Europe
+Savaysa	Greece	Y	H	Western Europe
+Darzalex	Greece	Y	H	Western Europe
+Farydak	Greece	Y	H	Western Europe
+Avycaz	Greece	Y	H	Western Europe
+Tecentriq	Greece	Y	H	Western Europe
+Alecensa	Guatemala	N	LM	Latin America and Carribean
+Cosentyx	Guatemala	N	LM	Latin America and Carribean
+Entresto	Guatemala	N	LM	Latin America and Carribean
+Savaysa	Guatemala	N	LM	Latin America and Carribean
+Adlyxin	Guatemala	N	LM	Latin America and Carribean
+Yondelis	Hong Kong	Y	H	Asia
+Repatha	Hong Kong	Y	H	Asia
+Epclusa	Hong Kong	Y	H	Asia
+Alecensa	Hong Kong	Y	H	Asia
+Entresto	Hong Kong	Y	H	Asia
+Tagrisso	Hong Kong	Y	H	Asia
+Adlyxin	Hong Kong	Y	H	Asia
+Spinraza	Hong Kong	Y	H	Asia
+Tecentriq	Hong Kong	Y	H	Asia
+Briviact	Hong Kong	Y	H	Asia
+Unituxin	Hong Kong	N	H	Asia
+Farydak	Hong Kong	N	H	Asia
+Yondelis	Hungary	Y	H	Eastern Europe
+Addyi	Hungary	Y	H	Eastern Europe
+Adlyxin	Hungary	Y	H	Eastern Europe
+Venclexta	Hungary	Y	H	Eastern Europe
+Briviact	Hungary	Y	H	Eastern Europe
+Repatha	Hungary	Y	H	Eastern Europe
+Cosentyx	Hungary	Y	H	Eastern Europe
+Cotellic	Hungary	Y	H	Eastern Europe
+Odomzo	Hungary	Y	H	Eastern Europe
+Lartruvo	Hungary	Y	H	Eastern Europe
+Praluent	Hungary	Y	H	Eastern Europe
+Taltz	Hungary	Y	H	Eastern Europe
+Zinbryta	Hungary	Y	H	Eastern Europe
+Portrazza	Hungary	Y	H	Eastern Europe
+Tagrisso	Hungary	Y	H	Eastern Europe
+Entresto	Hungary	Y	H	Eastern Europe
+Uptravi	Hungary	Y	H	Eastern Europe
+Cinqair	Hungary	Y	H	Eastern Europe
+Empliciti	Hungary	Y	H	Eastern Europe
+Savaysa	Hungary	Y	H	Eastern Europe
+Unituxin	Hungary	Y	H	Eastern Europe
+Darzalex	Hungary	Y	H	Eastern Europe
+Farydak	Hungary	Y	H	Eastern Europe
+Cresemba	Hungary	Y	H	Eastern Europe
+Ninlaro	Hungary	Y	H	Eastern Europe
+Avycaz	Hungary	Y	H	Eastern Europe
+Tecentriq	Hungary	Y	H	Eastern Europe
+Ibrance	Hungary	Y	H	Eastern Europe
+Veltassa	Hungary	Y	H	Eastern Europe
+Vraylar	Hungary	Y	H	Eastern Europe
+Natpara	Hungary	Y	H	Eastern Europe
+Rexulti	Hungary	Y	H	Eastern Europe
+Cosentyx	Iceland	Y	H	Western Europe
+Entresto	Iceland	Y	H	Western Europe
+Zinbryta	India	Y	LM	Asia
+Yondelis	India	Y	LM	Asia
+Adlyxin	India	Y	LM	Asia
+Entresto	India	Y	LM	Asia
+Avycaz	India	Y	LM	Asia
+Cresemba	India	Y	LM	Asia
+Vraylar	India	N	LM	Asia
+Uptravi	India	N	LM	Asia
+Cosentyx	India	N	LM	Asia
+Savaysa	India	N	LM	Asia
+Unituxin	India	N	LM	Asia
+Briviact	India	N	LM	Asia
+Nuplazid	India	N	LM	Asia
+Taltz	India	N	LM	Asia
+Daklinza	Ireland	Y	H	Western Europe
+Kanuma	Ireland	Y	H	Western Europe
+Odomzo	Ireland	Y	H	Western Europe
+Zinbryta	Ireland	Y	H	Western Europe
+Orkambi	Ireland	Y	H	Western Europe
+Uptravi	Ireland	Y	H	Western Europe
+Empliciti	Ireland	Y	H	Western Europe
+Lonsurf	Ireland	Y	H	Western Europe
+Ibrance	Ireland	Y	H	Western Europe
+Yondelis	Israel	Y	H	Middle East
+Alecensa	Israel	Y	H	Middle East
+Cotellic	Israel	Y	H	Middle East
+Tagrisso	Israel	Y	H	Middle East
+Praluent	Israel	Y	H	Middle East
+Adlyxin	Israel	Y	H	Middle East
+Cosentyx	Israel	Y	H	Middle East
+Uptravi	Israel	Y	H	Middle East
+Empliciti	Israel	Y	H	Middle East
+Ninlaro	Israel	Y	H	Middle East
+Entresto	Israel	Y	H	Middle East
+Rubraca	Israel	Y	H	Middle East
+Cresemba	Israel	Y	H	Middle East
+Darzalex	Israel	Y	H	Middle East
+Savaysa	Israel	Y	H	Middle East
+Avycaz	Israel	N	H	Middle East
+Farydak	Israel	N	H	Middle East
+Cinqair	Israel	N	H	Middle East
+Lartruvo	Israel	N	H	Middle East
+Zinbryta	Israel	N	H	Middle East
+Corlanor	Italy	Y	H	Western Europe
+Corlanor	Italy	Y	H	Western Europe
+Bridion	Italy	Y	H	Western Europe
+Addyi	Italy	Y	H	Western Europe
+Adlyxin	Italy	Y	H	Western Europe
+Venclexta	Italy	Y	H	Western Europe
+Daklinza	Italy	Y	H	Western Europe
+Kanuma	Italy	Y	H	Western Europe
+Briviact	Italy	Y	H	Western Europe
+Repatha	Italy	Y	H	Western Europe
+Strensiq	Italy	Y	H	Western Europe
+Cosentyx	Italy	Y	H	Western Europe
+Cotellic	Italy	Y	H	Western Europe
+Genvoya	Italy	Y	H	Western Europe
+Nucala	Italy	Y	H	Western Europe
+Odomzo	Italy	Y	H	Western Europe
+Epclusa	Italy	Y	H	Western Europe
+Lartruvo	Italy	Y	H	Western Europe
+Praluent	Italy	Y	H	Western Europe
+Taltz	Italy	Y	H	Western Europe
+Zinbryta	Italy	Y	H	Western Europe
+Portrazza	Italy	Y	H	Western Europe
+Tagrisso	Italy	Y	H	Western Europe
+Lenvima	Italy	Y	H	Western Europe
+Entresto	Italy	Y	H	Western Europe
+Orkambi	Italy	Y	H	Western Europe
+Uptravi	Italy	Y	H	Western Europe
+Empliciti	Italy	Y	H	Western Europe
+Savaysa	Italy	Y	H	Western Europe
+Unituxin	Italy	Y	H	Western Europe
+Spinraza	Italy	Y	H	Western Europe
+Farydak	Italy	Y	H	Western Europe
+Ocaliva	Italy	Y	H	Western Europe
+Cresemba	Italy	Y	H	Western Europe
+Lonsurf	Italy	Y	H	Western Europe
+Ninlaro	Italy	Y	H	Western Europe
+Avycaz	Italy	Y	H	Western Europe
+Tecentriq	Italy	Y	H	Western Europe
+Ibrance	Italy	Y	H	Western Europe
+Veltassa	Italy	Y	H	Western Europe
+Kybella	Italy	Y	H	Western Europe
+Natpara	Italy	Y	H	Western Europe
+Alecensa	Italy	Y	H	Western Europe
+Nuplazid	Italy	N	H	Western Europe
+Tresiba	Japan	Y	H	Asia
+Adlyxin	Japan	Y	H	Asia
+Daklinza	Japan	Y	H	Asia
+Strensiq	Japan	Y	H	Asia
+Kanuma	Japan	Y	H	Asia
+Taltz	Japan	Y	H	Asia
+Farydak	Japan	Y	H	Asia
+Tagrisso	Japan	Y	H	Asia
+Spinraza	Japan	Y	H	Asia
+Genvoya	Japan	Y	H	Asia
+Cosentyx	Japan	Y	H	Asia
+Ninlaro	Japan	Y	H	Asia
+Rexulti	Japan	Y	H	Asia
+Ibrance	Japan	Y	H	Asia
+Tecentriq	Japan	Y	H	Asia
+Lenvima	Japan	Y	H	Asia
+Darzalex	Japan	Y	H	Asia
+Empliciti	Japan	Y	H	Asia
+Lonsurf	Japan	Y	H	Asia
+Entresto	Japan	Y	H	Asia
+Savaysa	Japan	N	H	Asia
+Avycaz	Japan	N	H	Asia
+Vraylar	Japan	N	H	Asia
+Briviact	Japan	N	H	Asia
+Lartruvo	Japan	N	H	Asia
+Avycaz	Jordan	N	UM	Middle East
+Adlyxin	Latvia	Y	H	Eastern Europe
+Briviact	Latvia	Y	H	Eastern Europe
+Cosentyx	Latvia	Y	H	Eastern Europe
+Praxbind	Latvia	Y	H	Eastern Europe
+Entresto	Latvia	Y	H	Eastern Europe
+Avycaz	Latvia	Y	H	Eastern Europe
+Rexulti	Latvia	Y	H	Eastern Europe
+Avycaz	Lebanon	N	UM	Middle East
+Praxbind	Lebanon	N	UM	Middle East
+Repatha	Lebanon	N	UM	Middle East
+Cresemba	Lebanon	N	UM	Middle East
+Farydak	Lebanon	N	UM	Middle East
+Adlyxin	Lithuania	Y	H	Eastern Europe
+Briviact	Lithuania	Y	H	Eastern Europe
+Cosentyx	Lithuania	Y	H	Eastern Europe
+Entresto	Lithuania	Y	H	Eastern Europe
+Unituxin	Lithuania	Y	H	Eastern Europe
+Avycaz	Lithuania	Y	H	Eastern Europe
+Alecensa	Luxembourg	Y	H	Western Europe
+Adlyxin	Malaysia	Y	UM	Asia
+Tagrisso	Malaysia	N	UM	Asia
+Avycaz	Malaysia	N	UM	Asia
+Entresto	Malaysia	N	UM	Asia
+Cresemba	Malaysia	N	UM	Asia
+Uptravi	Malaysia	N	UM	Asia
+Aristada	Malaysia	N	UM	Asia
+Farydak	Malaysia	N	UM	Asia
+Unituxin	Malaysia	N	UM	Asia
+Vraylar	Malaysia	N	UM	Asia
+Cinqair	Malaysia	N	UM	Asia
+Zinbryta	Moldova	N	LM	Eastern Europe
+Yondelis	Netherlands	Y	H	Eastern Europe
+Addyi	Netherlands	Y	H	Eastern Europe
+Adlyxin	Netherlands	Y	H	Eastern Europe
+Venclexta	Netherlands	Y	H	Eastern Europe
+Daklinza	Netherlands	Y	H	Eastern Europe
+Briviact	Netherlands	Y	H	Eastern Europe
+Repatha	Netherlands	Y	H	Eastern Europe
+Cotellic	Netherlands	Y	H	Eastern Europe
+Genvoya	Netherlands	Y	H	Eastern Europe
+Nucala	Netherlands	Y	H	Eastern Europe
+Odomzo	Netherlands	Y	H	Eastern Europe
+Lartruvo	Netherlands	Y	H	Eastern Europe
+Praluent	Netherlands	Y	H	Eastern Europe
+Taltz	Netherlands	Y	H	Eastern Europe
+Tagrisso	Netherlands	Y	H	Eastern Europe
+Entresto	Netherlands	Y	H	Eastern Europe
+Orkambi	Netherlands	Y	H	Eastern Europe
+Uptravi	Netherlands	Y	H	Eastern Europe
+Cinqair	Netherlands	Y	H	Eastern Europe
+Savaysa	Netherlands	Y	H	Eastern Europe
+Darzalex	Netherlands	Y	H	Eastern Europe
+Farydak	Netherlands	Y	H	Eastern Europe
+Ocaliva	Netherlands	Y	H	Eastern Europe
+Cresemba	Netherlands	Y	H	Eastern Europe
+Ninlaro	Netherlands	Y	H	Eastern Europe
+Avycaz	Netherlands	Y	H	Eastern Europe
+Tecentriq	Netherlands	Y	H	Eastern Europe
+Ibrance	Netherlands	Y	H	Eastern Europe
+Alecensa	Netherlands	Y	H	Eastern Europe
+Repatha	New Zealand	Y	H	Oceania
+Epclusa	New Zealand	Y	H	Oceania
+Cotellic	New Zealand	Y	H	Oceania
+Venclexta	New Zealand	Y	H	Oceania
+Alecensa	New Zealand	Y	H	Oceania
+Zurampic	New Zealand	Y	H	Oceania
+Cresemba	New Zealand	N	H	Oceania
+Farydak	New Zealand	N	H	Oceania
+Ninlaro	New Zealand	N	H	Oceania
+Orkambi	New Zealand	N	H	Oceania
+Savaysa	New Zealand	N	H	Oceania
+Yondelis	New Zealand	N	H	Oceania
+Cinqair	New Zealand	N	H	Oceania
+Addyi	Norway	Y	H	Western Europe
+Adlyxin	Norway	Y	H	Western Europe
+Repatha	Norway	Y	H	Western Europe
+Cotellic	Norway	Y	H	Western Europe
+Nucala	Norway	Y	H	Western Europe
+Odomzo	Norway	Y	H	Western Europe
+Praluent	Norway	Y	H	Western Europe
+Entresto	Norway	Y	H	Western Europe
+Savaysa	Norway	Y	H	Western Europe
+Farydak	Norway	Y	H	Western Europe
+Tecentriq	Norway	Y	H	Western Europe
+Taltz	Peru	Y	UM	Latin America and Carribean
+Avycaz	Peru	N	UM	Latin America and Carribean
+Entresto	Peru	N	UM	Latin America and Carribean
+Nucala	Peru	N	UM	Latin America and Carribean
+Savaysa	Peru	N	UM	Latin America and Carribean
+Uptravi	Peru	N	UM	Latin America and Carribean
+Adlyxin	Peru	N	UM	Latin America and Carribean
+Cinqair	Peru	N	UM	Latin America and Carribean
+Entresto	Philippines	Y	LM	Asia
+Adlyxin	Philippines	Y	LM	Asia
+Rexulti	Philippines	Y	LM	Asia
+Tagrisso	Philippines	Y	LM	Asia
+Avycaz	Philippines	N	LM	Asia
+Cosentyx	Philippines	N	LM	Asia
+Aristada	Philippines	N	LM	Asia
+Portrazza	Philippines	N	LM	Asia
+Savaysa	Philippines	N	LM	Asia
+Unituxin	Philippines	N	LM	Asia
+Cinqair	Philippines	N	LM	Asia
+Yondelis	Poland	Y	H	Eastern Europe
+Adlyxin	Poland	Y	H	Eastern Europe
+Venclexta	Poland	Y	H	Eastern Europe
+Daklinza	Poland	Y	H	Eastern Europe
+Kanuma	Poland	Y	H	Eastern Europe
+Briviact	Poland	Y	H	Eastern Europe
+Repatha	Poland	Y	H	Eastern Europe
+Cosentyx	Poland	Y	H	Eastern Europe
+Nucala	Poland	Y	H	Eastern Europe
+Lartruvo	Poland	Y	H	Eastern Europe
+Praluent	Poland	Y	H	Eastern Europe
+Zurampic	Poland	Y	H	Eastern Europe
+Taltz	Poland	Y	H	Eastern Europe
+Zinbryta	Poland	Y	H	Eastern Europe
+Portrazza	Poland	Y	H	Eastern Europe
+Tagrisso	Poland	Y	H	Eastern Europe
+Lenvima	Poland	Y	H	Eastern Europe
+Entresto	Poland	Y	H	Eastern Europe
+Uptravi	Poland	Y	H	Eastern Europe
+Cinqair	Poland	Y	H	Eastern Europe
+Empliciti	Poland	Y	H	Eastern Europe
+Savaysa	Poland	Y	H	Eastern Europe
+Unituxin	Poland	Y	H	Eastern Europe
+Darzalex	Poland	Y	H	Eastern Europe
+Farydak	Poland	Y	H	Eastern Europe
+Ocaliva	Poland	Y	H	Eastern Europe
+Cresemba	Poland	Y	H	Eastern Europe
+Ninlaro	Poland	Y	H	Eastern Europe
+Avycaz	Poland	Y	H	Eastern Europe
+Tecentriq	Poland	Y	H	Eastern Europe
+Ibrance	Poland	Y	H	Eastern Europe
+Vraylar	Poland	Y	H	Eastern Europe
+Alecensa	Poland	Y	H	Eastern Europe
+Rexulti	Poland	Y	H	Eastern Europe
+Nuplazid	Poland	N	H	Eastern Europe
+Adlyxin	Portugal	Y	H	Western Europe
+Genvoya	Portugal	Y	H	Western Europe
+Praluent	Portugal	Y	H	Western Europe
+Portrazza	Portugal	Y	H	Western Europe
+Tagrisso	Portugal	Y	H	Western Europe
+Lenvima	Portugal	Y	H	Western Europe
+Entresto	Portugal	Y	H	Western Europe
+Savaysa	Portugal	Y	H	Western Europe
+Ninlaro	Portugal	Y	H	Western Europe
+Avycaz	Portugal	Y	H	Western Europe
+Tecentriq	Portugal	Y	H	Western Europe
+Ibrance	Portugal	Y	H	Western Europe
+Alecensa	Portugal	Y	H	Western Europe
+Nuplazid	Portugal	N	H	Western Europe
+Avycaz	Puerto Rico	Y	H	Latin America and Carribean
+Daklinza	Puerto Rico	Y	H	Latin America and Carribean
+Genvoya	Puerto Rico	Y	H	Latin America and Carribean
+Viberzi	Puerto Rico	Y	H	Latin America and Carribean
+Adlyxin	Puerto Rico	Y	H	Latin America and Carribean
+Epclusa	Puerto Rico	Y	H	Latin America and Carribean
+Taltz	Puerto Rico	Y	H	Latin America and Carribean
+Spinraza	Qatar	N	H	Middle East
+Adlyxin	Romania	Y	UM	Eastern Europe
+Aristada	Romania	Y	UM	Eastern Europe
+Cosentyx	Romania	Y	UM	Eastern Europe
+Nucala	Romania	Y	UM	Eastern Europe
+Praluent	Romania	Y	UM	Eastern Europe
+Taltz	Romania	Y	UM	Eastern Europe
+Zinbryta	Romania	Y	UM	Eastern Europe
+Portrazza	Romania	Y	UM	Eastern Europe
+Tagrisso	Romania	Y	UM	Eastern Europe
+Lenvima	Romania	Y	UM	Eastern Europe
+Entresto	Romania	Y	UM	Eastern Europe
+Uptravi	Romania	Y	UM	Eastern Europe
+Cinqair	Romania	Y	UM	Eastern Europe
+Empliciti	Romania	Y	UM	Eastern Europe
+Savaysa	Romania	Y	UM	Eastern Europe
+Unituxin	Romania	Y	UM	Eastern Europe
+Ninlaro	Romania	Y	UM	Eastern Europe
+Avycaz	Romania	Y	UM	Eastern Europe
+Tecentriq	Romania	Y	UM	Eastern Europe
+Ibrance	Romania	Y	UM	Eastern Europe
+Vraylar	Romania	Y	UM	Eastern Europe
+Rexulti	Romania	Y	UM	Eastern Europe
+Repatha	Russian Federation	Y	H	Eastern Europe
+Entresto	Russian Federation	Y	H	Eastern Europe
+Lenvima	Russian Federation	Y	H	Eastern Europe
+Briviact	Russian Federation	Y	H	Eastern Europe
+Cinqair	Russian Federation	Y	H	Eastern Europe
+Darzalex	Russian Federation	Y	H	Eastern Europe
+Tecentriq	Russian Federation	Y	H	Eastern Europe
+Venclexta	Russian Federation	Y	H	Eastern Europe
+Kanuma	Russian Federation	Y	H	Eastern Europe
+Tagrisso	Russian Federation	Y	H	Eastern Europe
+Avycaz	Russian Federation	Y	H	Eastern Europe
+Nucala	Russian Federation	Y	H	Eastern Europe
+Taltz	Russian Federation	Y	H	Eastern Europe
+Uptravi	Russian Federation	Y	H	Eastern Europe
+Strensiq	Russian Federation	Y	H	Eastern Europe
+Adlyxin	Russian Federation	Y	H	Eastern Europe
+Cresemba	Russian Federation	N	H	Eastern Europe
+Alecensa	Russian Federation	N	H	Eastern Europe
+Cotellic	Russian Federation	N	H	Eastern Europe
+Empliciti	Russian Federation	N	H	Eastern Europe
+Rexulti	Russian Federation	N	H	Eastern Europe
+Praluent	Russian Federation	N	H	Eastern Europe
+Ninlaro	Russian Federation	N	H	Eastern Europe
+Ibrance	Russian Federation	N	H	Eastern Europe
+Vraylar	Russian Federation	N	H	Eastern Europe
+Unituxin	Russian Federation	N	H	Eastern Europe
+Savaysa	Russian Federation	N	H	Eastern Europe
+Aristada	Russian Federation	N	H	Eastern Europe
+Farydak	Russian Federation	N	H	Eastern Europe
+Odomzo	Russian Federation	N	H	Eastern Europe
+Portrazza	Russian Federation	N	H	Eastern Europe
+Yondelis	Russian Federation	N	H	Eastern Europe
+Lartruvo	Russian Federation	N	H	Eastern Europe
+Nuplazid	Russian Federation	N	H	Eastern Europe
+Zinbryta	Russian Federation	N	H	Eastern Europe
+Strensiq	Saudi Arabia	Y	H	Middle East
+Alecensa	Serbia	Y	UM	Eastern Europe
+Adlyxin	Serbia	Y	UM	Eastern Europe
+Tecentriq	Serbia	Y	UM	Eastern Europe
+Avycaz	Serbia	Y	UM	Eastern Europe
+Uptravi	Serbia	N	UM	Eastern Europe
+Entresto	Serbia	N	UM	Eastern Europe
+Portrazza	Serbia	N	UM	Eastern Europe
+Rexulti	Serbia	N	UM	Eastern Europe
+Savaysa	Serbia	N	UM	Eastern Europe
+Veltassa	Serbia	N	UM	Eastern Europe
+Vraylar	Serbia	N	UM	Eastern Europe
+Nuplazid	Serbia	N	UM	Eastern Europe
+Zinbryta	Serbia	N	UM	Eastern Europe
+Alecensa	Singapore	Y	H	Asia
+Tecentriq	Singapore	Y	H	Asia
+Yondelis	Singapore	N	H	Asia
+Uptravi	Singapore	N	H	Asia
+Ninlaro	Singapore	N	H	Asia
+Savaysa	Singapore	N	H	Asia
+Cosentyx	Singapore	N	H	Asia
+Entresto	Singapore	N	H	Asia
+Farydak	Singapore	N	H	Asia
+Portrazza	Singapore	N	H	Asia
+Yondelis	Slovakia	Y	H	Eastern Europe
+Adlyxin	Slovakia	Y	H	Eastern Europe
+Nucala	Slovakia	Y	H	Eastern Europe
+Praxbind	Slovakia	Y	H	Eastern Europe
+Portrazza	Slovakia	Y	H	Eastern Europe
+Entresto	Slovakia	Y	H	Eastern Europe
+Uptravi	Slovakia	Y	H	Eastern Europe
+Cinqair	Slovakia	Y	H	Eastern Europe
+Savaysa	Slovakia	Y	H	Eastern Europe
+Unituxin	Slovakia	Y	H	Eastern Europe
+Avycaz	Slovakia	Y	H	Eastern Europe
+Vraylar	Slovakia	Y	H	Eastern Europe
+Rexulti	Slovakia	Y	H	Eastern Europe
+Entresto	Slovenia	Y	H	Eastern Europe
+Avycaz	Slovenia	Y	H	Eastern Europe
+Tecentriq	Slovenia	Y	H	Eastern Europe
+Veltassa	Slovenia	Y	H	Eastern Europe
+Entresto	South Africa	Y	UM	Africa
+Repatha	South Africa	Y	UM	Africa
+Praluent	South Africa	Y	UM	Africa
+Ibrance	South Africa	N	UM	Africa
+Avycaz	South Africa	N	UM	Africa
+Cresemba	South Africa	N	UM	Africa
+Farydak	South Africa	N	UM	Africa
+Genvoya	South Africa	N	UM	Africa
+Portrazza	South Africa	N	UM	Africa
+Savaysa	South Africa	N	UM	Africa
+Vraylar	South Africa	N	UM	Africa
+Zurampic	South Africa	N	UM	Africa
+Adlyxin	South Africa	N	UM	Africa
+Cinqair	South Africa	N	UM	Africa
+Yondelis	South Korea	Y	H	Asia
+Daklinza	South Korea	Y	H	Asia
+Uptravi	South Korea	Y	H	Asia
+Lartruvo	South Korea	Y	H	Asia
+Tagrisso	South Korea	Y	H	Asia
+Savaysa	South Korea	Y	H	Asia
+Tecentriq	South Korea	Y	H	Asia
+Cosentyx	South Korea	Y	H	Asia
+Lenvima	South Korea	Y	H	Asia
+Entresto	South Korea	Y	H	Asia
+Alecensa	South Korea	Y	H	Asia
+Spinraza	South Korea	Y	H	Asia
+Adlyxin	South Korea	Y	H	Asia
+Praluent	South Korea	Y	H	Asia
+Cinqair	South Korea	Y	H	Asia
+Ibrance	South Korea	Y	H	Asia
+Repatha	South Korea	Y	H	Asia
+Ninlaro	South Korea	Y	H	Asia
+Taltz	South Korea	Y	H	Asia
+Darzalex	South Korea	Y	H	Asia
+Farydak	South Korea	Y	H	Asia
+Rexulti	South Korea	Y	H	Asia
+Venclexta	South Korea	Y	H	Asia
+Cresemba	South Korea	Y	H	Asia
+Aristada	South Korea	N	H	Asia
+Avycaz	South Korea	N	H	Asia
+Nucala	South Korea	N	H	Asia
+Portrazza	South Korea	N	H	Asia
+Unituxin	South Korea	N	H	Asia
+Vraylar	South Korea	N	H	Asia
+Briviact	South Korea	N	H	Asia
+Yondelis	Spain	Y	H	Western Europe
+Addyi	Spain	Y	H	Western Europe
+Adlyxin	Spain	Y	H	Western Europe
+Venclexta	Spain	Y	H	Western Europe
+Daklinza	Spain	Y	H	Western Europe
+Kanuma	Spain	Y	H	Western Europe
+Briviact	Spain	Y	H	Western Europe
+Repatha	Spain	Y	H	Western Europe
+Strensiq	Spain	Y	H	Western Europe
+Cosentyx	Spain	Y	H	Western Europe
+Cotellic	Spain	Y	H	Western Europe
+Genvoya	Spain	Y	H	Western Europe
+Nucala	Spain	Y	H	Western Europe
+Odomzo	Spain	Y	H	Western Europe
+Lartruvo	Spain	Y	H	Western Europe
+Praluent	Spain	Y	H	Western Europe
+Zurampic	Spain	Y	H	Western Europe
+Taltz	Spain	Y	H	Western Europe
+Zinbryta	Spain	Y	H	Western Europe
+Portrazza	Spain	Y	H	Western Europe
+Tagrisso	Spain	Y	H	Western Europe
+Lenvima	Spain	Y	H	Western Europe
+Entresto	Spain	Y	H	Western Europe
+Orkambi	Spain	Y	H	Western Europe
+Uptravi	Spain	Y	H	Western Europe
+Empliciti	Spain	Y	H	Western Europe
+Savaysa	Spain	Y	H	Western Europe
+Unituxin	Spain	Y	H	Western Europe
+Spinraza	Spain	Y	H	Western Europe
+Darzalex	Spain	Y	H	Western Europe
+Farydak	Spain	Y	H	Western Europe
+Ocaliva	Spain	Y	H	Western Europe
+Cresemba	Spain	Y	H	Western Europe
+Lonsurf	Spain	Y	H	Western Europe
+Ninlaro	Spain	Y	H	Western Europe
+Avycaz	Spain	Y	H	Western Europe
+Tecentriq	Spain	Y	H	Western Europe
+Rubraca	Spain	Y	H	Western Europe
+Ibrance	Spain	Y	H	Western Europe
+Vraylar	Spain	Y	H	Western Europe
+Kybella	Spain	Y	H	Western Europe
+Alecensa	Spain	Y	H	Western Europe
+Nuplazid	Spain	N	H	Western Europe
+Corlanor	Sweden	Y	H	Western Europe
+Yondelis	Sweden	Y	H	Western Europe
+Addyi	Sweden	Y	H	Western Europe
+Adlyxin	Sweden	Y	H	Western Europe
+Venclexta	Sweden	Y	H	Western Europe
+Daklinza	Sweden	Y	H	Western Europe
+Briviact	Sweden	Y	H	Western Europe
+Repatha	Sweden	Y	H	Western Europe
+Cosentyx	Sweden	Y	H	Western Europe
+Cotellic	Sweden	Y	H	Western Europe
+Genvoya	Sweden	Y	H	Western Europe
+Odomzo	Sweden	Y	H	Western Europe
+Lartruvo	Sweden	Y	H	Western Europe
+Praluent	Sweden	Y	H	Western Europe
+Zinbryta	Sweden	Y	H	Western Europe
+Tagrisso	Sweden	Y	H	Western Europe
+Lenvima	Sweden	Y	H	Western Europe
+Entresto	Sweden	Y	H	Western Europe
+Orkambi	Sweden	Y	H	Western Europe
+Uptravi	Sweden	Y	H	Western Europe
+Cinqair	Sweden	Y	H	Western Europe
+Savaysa	Sweden	Y	H	Western Europe
+Spinraza	Sweden	Y	H	Western Europe
+Darzalex	Sweden	Y	H	Western Europe
+Farydak	Sweden	Y	H	Western Europe
+Ocaliva	Sweden	Y	H	Western Europe
+Lonsurf	Sweden	Y	H	Western Europe
+Ninlaro	Sweden	Y	H	Western Europe
+Avycaz	Sweden	Y	H	Western Europe
+Tecentriq	Sweden	Y	H	Western Europe
+Vraylar	Sweden	Y	H	Western Europe
+Alecensa	Sweden	Y	H	Western Europe
+Nuplazid	Sweden	N	H	Western Europe
+Yondelis	Switzerland	Y	H	Western Europe
+Cotellic	Switzerland	Y	H	Western Europe
+Odomzo	Switzerland	Y	H	Western Europe
+Entresto	Switzerland	Y	H	Western Europe
+Savaysa	Switzerland	Y	H	Western Europe
+Repatha	Switzerland	Y	H	Western Europe
+Empliciti	Switzerland	Y	H	Western Europe
+Briviact	Switzerland	Y	H	Western Europe
+Tagrisso	Switzerland	Y	H	Western Europe
+Uptravi	Switzerland	Y	H	Western Europe
+Farydak	Switzerland	Y	H	Western Europe
+Genvoya	Switzerland	Y	H	Western Europe
+Tecentriq	Switzerland	Y	H	Western Europe
+Alecensa	Switzerland	Y	H	Western Europe
+Adlyxin	Switzerland	Y	H	Western Europe
+Cresemba	Switzerland	Y	H	Western Europe
+Zurampic	Switzerland	N	H	Western Europe
+Lartruvo	Switzerland	N	H	Western Europe
+Zinbryta	Switzerland	N	H	Western Europe
+Genvoya	Thailand	Y	UM	Asia
+Tecentriq	Thailand	Y	UM	Asia
+Savaysa	Thailand	Y	UM	Asia
+Uptravi	Thailand	Y	UM	Asia
+Entresto	Thailand	Y	UM	Asia
+Adlyxin	Thailand	Y	UM	Asia
+Avycaz	Thailand	Y	UM	Asia
+Cinqair	Thailand	Y	UM	Asia
+Lenvima	Thailand	Y	UM	Asia
+Cresemba	Thailand	N	UM	Asia
+Tagrisso	Thailand	N	UM	Asia
+Alecensa	Thailand	N	UM	Asia
+Farydak	Thailand	N	UM	Asia
+Portrazza	Thailand	N	UM	Asia
+Unituxin	Thailand	N	UM	Asia
+Adlyxin	Tunisia	N	UM	Africa
+Repatha	Turkey	Y	UM	Middle East
+Uptravi	Turkey	Y	UM	Middle East
+Alecensa	Turkey	Y	UM	Middle East
+Ninlaro	Turkey	Y	UM	Middle East
+Entresto	Turkey	Y	UM	Middle East
+Savaysa	Turkey	Y	UM	Middle East
+Tecentriq	Turkey	Y	UM	Middle East
+Darzalex	Turkey	Y	UM	Middle East
+Tagrisso	Turkey	Y	UM	Middle East
+Ibrance	Turkey	Y	UM	Middle East
+Avycaz	Turkey	Y	UM	Middle East
+Spinraza	Turkey	N	UM	Middle East
+Kanuma	Turkey	N	UM	Middle East
+Cresemba	Turkey	N	UM	Middle East
+Empliciti	Turkey	N	UM	Middle East
+Farydak	Turkey	N	UM	Middle East
+Strensiq	Turkey	N	UM	Middle East
+Adlyxin	Turkey	N	UM	Middle East
+Genvoya	Uganda	Y	L	Africa
+Adlyxin	Ukraine	Y	LM	Eastern Europe
+Nucala	Ukraine	Y	LM	Eastern Europe
+Alecensa	Ukraine	Y	LM	Eastern Europe
+Vraylar	Ukraine	Y	LM	Eastern Europe
+Avycaz	Ukraine	Y	LM	Eastern Europe
+Darzalex	Ukraine	Y	LM	Eastern Europe
+Savaysa	Ukraine	N	LM	Eastern Europe
+Ibrance	Ukraine	N	LM	Eastern Europe
+Tagrisso	Ukraine	N	LM	Eastern Europe
+Rexulti	Ukraine	N	LM	Eastern Europe
+Aristada	Ukraine	N	LM	Eastern Europe
+Praluent	Ukraine	N	LM	Eastern Europe
+Unituxin	Ukraine	N	LM	Eastern Europe
+Uptravi	Ukraine	N	LM	Eastern Europe
+Veltassa	Ukraine	N	LM	Eastern Europe
+Zurampic	Ukraine	N	LM	Eastern Europe
+Cinqair	Ukraine	N	LM	Eastern Europe
+Nuplazid	Ukraine	N	LM	Eastern Europe
+Taltz	Ukraine	N	LM	Eastern Europe
+Zinbryta	Ukraine	N	LM	Eastern Europe
+Strensiq	United Arab Emirates	Y	H	Middle East
+Empliciti	United Arab Emirates	N	H	Middle East
+Adlyxin	United Arab Emirates	N	H	Middle East
+Yondelis	United Kingdom	Y	H	Western Europe
+Addyi	United Kingdom	Y	H	Western Europe
+Kanuma	United Kingdom	Y	H	Western Europe
+Briviact	United Kingdom	Y	H	Western Europe
+Repatha	United Kingdom	Y	H	Western Europe
+Strensiq	United Kingdom	Y	H	Western Europe
+Cosentyx	United Kingdom	Y	H	Western Europe
+Nucala	United Kingdom	Y	H	Western Europe
+Odomzo	United Kingdom	Y	H	Western Europe
+Praluent	United Kingdom	Y	H	Western Europe
+Portrazza	United Kingdom	Y	H	Western Europe
+Lenvima	United Kingdom	Y	H	Western Europe
+Entresto	United Kingdom	Y	H	Western Europe
+Orkambi	United Kingdom	Y	H	Western Europe
+Uptravi	United Kingdom	Y	H	Western Europe
+Empliciti	United Kingdom	Y	H	Western Europe
+Savaysa	United Kingdom	Y	H	Western Europe
+Unituxin	United Kingdom	Y	H	Western Europe
+Darzalex	United Kingdom	Y	H	Western Europe
+Ocaliva	United Kingdom	Y	H	Western Europe
+Lonsurf	United Kingdom	Y	H	Western Europe
+Axumin	United Kingdom	Y	H	Western Europe
+Ninlaro	United Kingdom	Y	H	Western Europe
+Avycaz	United Kingdom	Y	H	Western Europe
+Rubraca	United Kingdom	Y	H	Western Europe
+Kybella	United Kingdom	Y	H	Western Europe
+Natpara	United Kingdom	Y	H	Western Europe
+Corlanor	United Kingdom	Y	H	Western Europe
+Adlyxin	United Kingdom	Y	H	Western Europe
+Epclusa	United Kingdom	Y	H	Western Europe
+Tecentriq	United Kingdom	Y	H	Western Europe
+Zinbryta	United Kingdom	Y	H	Western Europe
+Venclexta	United Kingdom	Y	H	Western Europe
+Taltz	United Kingdom	Y	H	Western Europe
+Alecensa	United Kingdom	Y	H	Western Europe
+Spinraza	United Kingdom	Y	H	Western Europe
+Cotellic	United Kingdom	N	H	Western Europe
+Genvoya	United Kingdom	N	H	Western Europe
+Tagrisso	United Kingdom	N	H	Western Europe
+Daklinza	United Kingdom	N	H	Western Europe
+Farydak	United Kingdom	N	H	Western Europe
+Ibrance	United Kingdom	N	H	Western Europe
+Viberzi	United Kingdom	N	H	Western Europe
+Zurampic	United Kingdom	N	H	Western Europe
+Lartruvo	United Kingdom	N	H	Western Europe
+Nuplazid	United Kingdom	N	H	Western Europe
+Genvoya	Zimbabwe	N	L	Africa

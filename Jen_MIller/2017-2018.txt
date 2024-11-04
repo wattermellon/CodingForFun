@@ -1,0 +1,1289 @@
+Aliqopa	Argentina	N	H	Latin America and Carribean
+Bevyxxa	Argentina	N	H	Latin America and Carribean
+Calquence	Argentina	N	H	Latin America and Carribean
+Fasenra	Argentina	N	H	Latin America and Carribean
+Tymlos	Argentina	N	H	Latin America and Carribean
+Vabomere	Argentina	N	H	Latin America and Carribean
+Verzenio	Argentina	N	H	Latin America and Carribean
+Xadago	Argentina	N	H	Latin America and Carribean
+Doptelet	Argentina	N	H	Latin America and Carribean
+Emgality	Argentina	N	H	Latin America and Carribean
+Onpattro	Argentina	N	H	Latin America and Carribean
+Tegsedi	Argentina	N	H	Latin America and Carribean
+Ultomiris	Argentina	N	H	Latin America and Carribean
+Xerava	Argentina	N	H	Latin America and Carribean
+Baxdela	Argentina	Y	H	Latin America and Carribean
+Besponsa	Argentina	Y	H	Latin America and Carribean
+Ocrevus	Argentina	Y	H	Latin America and Carribean
+Braftovi	Argentina	Y	H	Latin America and Carribean
+Galafold	Argentina	Y	H	Latin America and Carribean
+Mektovi	Argentina	Y	H	Latin America and Carribean
+Olumiant	Argentina	Y	H	Latin America and Carribean
+Vitrakvi	Argentina	Y	H	Latin America and Carribean
+Vizimpro	Argentina	Y	H	Latin America and Carribean
+Ozempic	Argentina	Y	H	Latin America and Carribean
+Tremfya	Argentina	Y	H	Latin America and Carribean
+Kevzara	Argentina	Y	H	Latin America and Carribean
+Kisqali	Argentina	Y	H	Latin America and Carribean
+Aliqopa	Australia	N	H	Oceania
+Bevyxxa	Australia	N	H	Oceania
+Giapreza	Australia	N	H	Oceania
+Kevzara	Australia	N	H	Oceania
+Parsabiv	Australia	N	H	Oceania
+Siliq	Australia	N	H	Oceania
+Symproic	Australia	N	H	Oceania
+Annovera	Australia	N	H	Oceania
+Copiktra	Australia	N	H	Oceania
+Erleada	Australia	N	H	Oceania
+Lokelma	Australia	N	H	Oceania
+Lorbrena	Australia	N	H	Oceania
+Motegrity	Australia	N	H	Oceania
+Tavalisse	Australia	N	H	Oceania
+Vizimpro	Australia	N	H	Oceania
+Ocrevus	Australia	N	H	Oceania
+Imfinzi	Australia	N	H	Oceania
+Tibsovo	Australia	Y	H	Oceania
+Doptelet	Australia	Y	H	Oceania
+Onpattro	Australia	Y	H	Oceania
+Austedo	Australia	Y	H	Oceania
+Vitrakvi	Australia	Y	H	Oceania
+Biktarvy	Australia	Y	H	Oceania
+Symdeko	Australia	Y	H	Oceania
+Poteligeo	Australia	Y	H	Oceania
+Ultomiris	Australia	Y	H	Oceania
+Calquence	Australia	Y	H	Oceania
+Alunbrig	Australia	Y	H	Oceania
+Libtayo	Australia	Y	H	Oceania
+Ozempic	Australia	Y	H	Oceania
+Nerlynx	Australia	Y	H	Oceania
+Xadago	Australia	Y	H	Oceania
+Verzenio	Australia	Y	H	Oceania
+Xermelo	Australia	Y	H	Oceania
+Talzenna	Australia	Y	H	Oceania
+Rydapt	Australia	Y	H	Oceania
+Bavencio	Australia	Y	H	Oceania
+Besponsa	Australia	Y	H	Oceania
+Dupixent	Australia	Y	H	Oceania
+Tremfya	Australia	Y	H	Oceania
+Kisqali	Australia	Y	H	Oceania
+Vosevi	Australia	Y	H	Oceania
+Braftovi	Australia	Y	H	Oceania
+Mektovi	Australia	Y	H	Oceania
+Fasenra	Australia	Y	H	Oceania
+Hemlibra	Australia	Y	H	Oceania
+Olumiant	Australia	Y	H	Oceania
+Galafold	Australia	Y	H	Oceania
+Aliqopa	Austria	N	H	Western Europe
+Bevyxxa	Austria	N	H	Western Europe
+Copiktra	Austria	Y	H	Western Europe
+Symproic	Austria	Y	H	Western Europe
+Tavalisse	Austria	Y	H	Western Europe
+Alunbrig	Austria	Y	H	Western Europe
+Imfinzi	Austria	Y	H	Western Europe
+Nerlynx	Austria	Y	H	Western Europe
+Macrilen	Austria	Y	H	Western Europe
+Doptelet	Austria	Y	H	Western Europe
+Verzenio	Austria	Y	H	Western Europe
+Erleada	Austria	Y	H	Western Europe
+Ocrevus	Austria	Y	H	Western Europe
+Symdeko	Austria	Y	H	Western Europe
+Zejula	Austria	Y	H	Western Europe
+Ultomiris	Austria	Y	H	Western Europe
+Dupixent	Austria	Y	H	Western Europe
+Kisqali	Austria	Y	H	Western Europe
+Siliq	Austria	Y	H	Western Europe
+Rydapt	Austria	Y	H	Western Europe
+Ozempic	Austria	Y	H	Western Europe
+Aimovig	Austria	Y	H	Western Europe
+Mektovi	Austria	Y	H	Western Europe
+Kevzara	Austria	Y	H	Western Europe
+Parsabiv	Austria	Y	H	Western Europe
+Oxervate	Austria	Y	H	Western Europe
+Olumiant	Austria	Y	H	Western Europe
+Xadago	Austria	Y	H	Western Europe
+Galafold	Austria	Y	H	Western Europe
+Akynzeo	Austria	Y	H	Western Europe
+Nerlynx	Bahamas	N	H	Latin America and Carribean
+Kevzara	Belarus	N	UM	Eastern Europe
+Vabomere	Belarus	N	UM	Eastern Europe
+Akynzeo	Belarus	N	UM	Eastern Europe
+Copiktra	Belarus	N	UM	Eastern Europe
+Ocrevus	Belarus	Y	UM	Eastern Europe
+Aliqopa	Belgium	N	H	Western Europe
+Bevyxxa	Belgium	N	H	Western Europe
+Lumoxiti	Belgium	N	H	Western Europe
+Nuzyra	Belgium	N	H	Western Europe
+Calquence	Belgium	Y	H	Western Europe
+Copiktra	Belgium	Y	H	Western Europe
+Giapreza	Belgium	Y	H	Western Europe
+Imfinzi	Belgium	Y	H	Western Europe
+Nerlynx	Belgium	Y	H	Western Europe
+Doptelet	Belgium	Y	H	Western Europe
+Verzenio	Belgium	Y	H	Western Europe
+Erleada	Belgium	Y	H	Western Europe
+Xospata	Belgium	Y	H	Western Europe
+Ocrevus	Belgium	Y	H	Western Europe
+Vitrakvi	Belgium	Y	H	Western Europe
+Symdeko	Belgium	Y	H	Western Europe
+Talzenna	Belgium	Y	H	Western Europe
+Zejula	Belgium	Y	H	Western Europe
+Xermelo	Belgium	Y	H	Western Europe
+Lorbrena	Belgium	Y	H	Western Europe
+Ultomiris	Belgium	Y	H	Western Europe
+Dupixent	Belgium	Y	H	Western Europe
+Kisqali	Belgium	Y	H	Western Europe
+Siliq	Belgium	Y	H	Western Europe
+Rydapt	Belgium	Y	H	Western Europe
+Biktarvy	Belgium	Y	H	Western Europe
+Tremfya	Belgium	Y	H	Western Europe
+Ozempic	Belgium	Y	H	Western Europe
+Aimovig	Belgium	Y	H	Western Europe
+Braftovi	Belgium	Y	H	Western Europe
+Mektovi	Belgium	Y	H	Western Europe
+Kevzara	Belgium	Y	H	Western Europe
+Emgality	Belgium	Y	H	Western Europe
+Besponsa	Belgium	Y	H	Western Europe
+Parsabiv	Belgium	Y	H	Western Europe
+Lutathera	Belgium	Y	H	Western Europe
+Olumiant	Belgium	Y	H	Western Europe
+Xadago	Belgium	Y	H	Western Europe
+Galafold	Belgium	Y	H	Western Europe
+Motegrity	Belgium	Y	H	Western Europe
+Akynzeo	Bosnia and Herzegovina	N	UM	Eastern Europe
+Ocrevus	Bosnia and Herzegovina	Y	UM	Eastern Europe
+Aliqopa	Bulgaria	N	UM	Eastern Europe
+Bevyxxa	Bulgaria	N	UM	Eastern Europe
+Nuzyra	Bulgaria	N	UM	Eastern Europe
+Copiktra	Bulgaria	Y	UM	Eastern Europe
+Baxdela	Bulgaria	Y	UM	Eastern Europe
+Tavalisse	Bulgaria	Y	UM	Eastern Europe
+Vabomere	Bulgaria	Y	UM	Eastern Europe
+Nerlynx	Bulgaria	Y	UM	Eastern Europe
+Ocrevus	Bulgaria	Y	UM	Eastern Europe
+Dupixent	Bulgaria	Y	UM	Eastern Europe
+Kisqali	Bulgaria	Y	UM	Eastern Europe
+Tremfya	Bulgaria	Y	UM	Eastern Europe
+Ozempic	Bulgaria	Y	UM	Eastern Europe
+Aimovig	Bulgaria	Y	UM	Eastern Europe
+Fasenra	Bulgaria	Y	UM	Eastern Europe
+Onpattro	Bulgaria	Y	UM	Eastern Europe
+Xerava	Bulgaria	Y	UM	Eastern Europe
+Besponsa	Bulgaria	Y	UM	Eastern Europe
+Xadago	Bulgaria	Y	UM	Eastern Europe
+Akynzeo	Bulgaria	Y	UM	Eastern Europe
+Motegrity	Bulgaria	Y	UM	Eastern Europe
+Austedo	Canada	N	H	Canada
+Emflaza	Canada	N	H	Canada
+Giapreza	Canada	N	H	Canada
+Ingrezza	Canada	N	H	Canada
+Parsabiv	Canada	N	H	Canada
+Symproic	Canada	N	H	Canada
+Copiktra	Canada	N	H	Canada
+Elzonris	Canada	N	H	Canada
+Lumoxiti	Canada	N	H	Canada
+Tibsovo	Canada	N	H	Canada
+Trogarzo	Canada	N	H	Canada
+Doptelet	Canada	N	H	Canada
+Trulance	Canada	Y	H	Canada
+Asparlas	Canada	Y	H	Canada
+Ocrevus	Canada	Y	H	Canada
+Braftovi	Canada	Y	H	Canada
+Mektovi	Canada	Y	H	Canada
+Zejula	Canada	Y	H	Canada
+Ultomiris	Canada	Y	H	Canada
+Tavalisse	Canada	Y	H	Canada
+Nerlynx	Canada	Y	H	Canada
+Xadago	Canada	Y	H	Canada
+Vitrakvi	Canada	Y	H	Canada
+Ajovy	Canada	Y	H	Canada
+Verzenio	Canada	Y	H	Canada
+Xermelo	Canada	Y	H	Canada
+Daurismo	Canada	Y	H	Canada
+Alunbrig	Canada	Y	H	Canada
+Siliq	Canada	Y	H	Canada
+Xospata	Canada	Y	H	Canada
+Kisqali	Canada	Y	H	Canada
+Emgality	Canada	Y	H	Canada
+Aliqopa	Canada	Y	H	Canada
+Onpattro	Canada	Y	H	Canada
+Dupixent	Canada	Y	H	Canada
+Crysvita	Canada	Y	H	Canada
+Besponsa	Canada	Y	H	Canada
+Imfinzi	Canada	Y	H	Canada
+Biktarvy	Canada	Y	H	Canada
+Vizimpro	Canada	Y	H	Canada
+Erleada	Canada	Y	H	Canada
+Lorbrena	Canada	Y	H	Canada
+Fasenra	Canada	Y	H	Canada
+Rydapt	Canada	Y	H	Canada
+Tremfya	Canada	Y	H	Canada
+Symdeko	Canada	Y	H	Canada
+Olumiant	Canada	Y	H	Canada
+Ozempic	Canada	Y	H	Canada
+Vosevi	Canada	Y	H	Canada
+Aimovig	Canada	Y	H	Canada
+Takhzyro	Canada	Y	H	Canada
+Kevzara	Canada	Y	H	Canada
+Galafold	Canada	Y	H	Canada
+Calquence	Canada	Y	H	Canada
+Bevyxxa	Canada	Y	H	Canada
+Aliqopa	Chile	N	H	Latin America and Carribean
+Bevyxxa	Chile	N	H	Latin America and Carribean
+Kevzara	Chile	N	H	Latin America and Carribean
+Xadago	Chile	N	H	Latin America and Carribean
+Annovera	Chile	N	H	Latin America and Carribean
+Doptelet	Chile	N	H	Latin America and Carribean
+Fasenra	Chile	Y	H	Latin America and Carribean
+Tremfya	Chile	Y	H	Latin America and Carribean
+Baxdela	Chile	Y	H	Latin America and Carribean
+Ocrevus	Chile	Y	H	Latin America and Carribean
+Aliqopa	China	N	UM	Asia
+Calquence	China	N	UM	Asia
+Besponsa	China	Y	UM	Asia
+Vitrakvi	China	Y	UM	Asia
+Dupixent	China	Y	UM	Asia
+Nerlynx	China	Y	UM	Asia
+Imfinzi	China	Y	UM	Asia
+Doptelet	China	Y	UM	Asia
+Olumiant	China	Y	UM	Asia
+Vizimpro	China	Y	UM	Asia
+Motegrity	China	Y	UM	Asia
+Aliqopa	Colombia	N	UM	Latin America and Carribean
+Kevzara	Colombia	N	UM	Latin America and Carribean
+Vabomere	Colombia	N	UM	Latin America and Carribean
+Braftovi	Colombia	N	UM	Latin America and Carribean
+Krintafel	Colombia	N	UM	Latin America and Carribean
+Mektovi	Colombia	N	UM	Latin America and Carribean
+Nerlynx	Colombia	N	UM	Latin America and Carribean
+Vitrakvi	Colombia	Y	UM	Latin America and Carribean
+Tremfya	Colombia	Y	UM	Latin America and Carribean
+Xadago	Colombia	Y	UM	Latin America and Carribean
+Kisqali	Colombia	Y	UM	Latin America and Carribean
+Fasenra	Colombia	Y	UM	Latin America and Carribean
+Hemlibra	Costa Rica	N	UM	Latin America and Carribean
+Nuzyra	Croatia	N	H	Eastern Europe
+Baxdela	Croatia	Y	H	Eastern Europe
+Bevyxxa	Croatia	Y	H	Eastern Europe
+Nerlynx	Croatia	Y	H	Eastern Europe
+Ocrevus	Croatia	Y	H	Eastern Europe
+Ozempic	Croatia	Y	H	Eastern Europe
+Besponsa	Croatia	Y	H	Eastern Europe
+Olumiant	Croatia	Y	H	Eastern Europe
+Xadago	Croatia	Y	H	Eastern Europe
+Akynzeo	Croatia	Y	H	Eastern Europe
+Onpattro	Cyprus	Y	H	Eastern Europe
+Aliqopa	Czech Republic	N	H	Eastern Europe
+Austedo	Czech Republic	N	H	Eastern Europe
+Bevyxxa	Czech Republic	N	H	Eastern Europe
+Lumoxiti	Czech Republic	N	H	Eastern Europe
+Nuzyra	Czech Republic	N	H	Eastern Europe
+Calquence	Czech Republic	Y	H	Eastern Europe
+Copiktra	Czech Republic	Y	H	Eastern Europe
+Symproic	Czech Republic	Y	H	Eastern Europe
+Tymlos	Czech Republic	Y	H	Eastern Europe
+Tavalisse	Czech Republic	Y	H	Eastern Europe
+Imfinzi	Czech Republic	Y	H	Eastern Europe
+Vabomere	Czech Republic	Y	H	Eastern Europe
+Nerlynx	Czech Republic	Y	H	Eastern Europe
+Doptelet	Czech Republic	Y	H	Eastern Europe
+Verzenio	Czech Republic	Y	H	Eastern Europe
+Erleada	Czech Republic	Y	H	Eastern Europe
+Ocrevus	Czech Republic	Y	H	Eastern Europe
+Vitrakvi	Czech Republic	Y	H	Eastern Europe
+Ajovy	Czech Republic	Y	H	Eastern Europe
+Ultomiris	Czech Republic	Y	H	Eastern Europe
+Dupixent	Czech Republic	Y	H	Eastern Europe
+Kisqali	Czech Republic	Y	H	Eastern Europe
+Siliq	Czech Republic	Y	H	Eastern Europe
+Tremfya	Czech Republic	Y	H	Eastern Europe
+Ozempic	Czech Republic	Y	H	Eastern Europe
+Aimovig	Czech Republic	Y	H	Eastern Europe
+Braftovi	Czech Republic	Y	H	Eastern Europe
+Mektovi	Czech Republic	Y	H	Eastern Europe
+Fasenra	Czech Republic	Y	H	Eastern Europe
+Kevzara	Czech Republic	Y	H	Eastern Europe
+Emgality	Czech Republic	Y	H	Eastern Europe
+Xerava	Czech Republic	Y	H	Eastern Europe
+Besponsa	Czech Republic	Y	H	Eastern Europe
+Parsabiv	Czech Republic	Y	H	Eastern Europe
+Olumiant	Czech Republic	Y	H	Eastern Europe
+Xadago	Czech Republic	Y	H	Eastern Europe
+Akynzeo	Czech Republic	Y	H	Eastern Europe
+Motegrity	Czech Republic	Y	H	Eastern Europe
+Aliqopa	Denmark	N	H	Western Europe
+Bevyxxa	Denmark	N	H	Western Europe
+Symproic	Denmark	Y	H	Western Europe
+Tymlos	Denmark	Y	H	Western Europe
+Tavalisse	Denmark	Y	H	Western Europe
+Alunbrig	Denmark	Y	H	Western Europe
+Imfinzi	Denmark	Y	H	Western Europe
+Nerlynx	Denmark	Y	H	Western Europe
+Verzenio	Denmark	Y	H	Western Europe
+Erleada	Denmark	Y	H	Western Europe
+Ocrevus	Denmark	Y	H	Western Europe
+Vitrakvi	Denmark	Y	H	Western Europe
+Symdeko	Denmark	Y	H	Western Europe
+Zejula	Denmark	Y	H	Western Europe
+Dupixent	Denmark	Y	H	Western Europe
+Kisqali	Denmark	Y	H	Western Europe
+Siliq	Denmark	Y	H	Western Europe
+Poteligeo	Denmark	Y	H	Western Europe
+Ozempic	Denmark	Y	H	Western Europe
+Aimovig	Denmark	Y	H	Western Europe
+Crysvita	Denmark	Y	H	Western Europe
+Parsabiv	Denmark	Y	H	Western Europe
+Olumiant	Denmark	Y	H	Western Europe
+Galafold	Denmark	Y	H	Western Europe
+Motegrity	Denmark	Y	H	Western Europe
+Annovera	Dominican Republic	N	UM	Latin America and Carribean
+Biktarvy	Dominican Republic	Y	UM	Latin America and Carribean
+Kevzara	Ecuador	N	UM	Latin America and Carribean
+Aemcolo	Ecuador	N	UM	Latin America and Carribean
+Kevzara	Egypt	N	LM	Africa
+Galafold	Egypt	N	LM	Africa
+Bevyxxa	Estonia	N	H	Eastern Europe
+Baxdela	Estonia	Y	H	Eastern Europe
+Tymlos	Estonia	Y	H	Eastern Europe
+Ocrevus	Estonia	Y	H	Eastern Europe
+Ultomiris	Estonia	Y	H	Eastern Europe
+Dupixent	Estonia	Y	H	Eastern Europe
+Kevzara	Estonia	Y	H	Eastern Europe
+Xerava	Estonia	Y	H	Eastern Europe
+Parsabiv	Estonia	Y	H	Eastern Europe
+Xadago	Estonia	Y	H	Eastern Europe
+Krintafel	Ethiopia	Y	L	Africa
+Aliqopa	Finland	N	H	Western Europe
+Bevyxxa	Finland	N	H	Western Europe
+Annovera	Finland	N	H	Western Europe
+Giapreza	Finland	Y	H	Western Europe
+Verzenio	Finland	Y	H	Western Europe
+Erleada	Finland	Y	H	Western Europe
+Ocrevus	Finland	Y	H	Western Europe
+Ajovy	Finland	Y	H	Western Europe
+Dupixent	Finland	Y	H	Western Europe
+Kisqali	Finland	Y	H	Western Europe
+Siliq	Finland	Y	H	Western Europe
+Ozempic	Finland	Y	H	Western Europe
+Aimovig	Finland	Y	H	Western Europe
+Kevzara	Finland	Y	H	Western Europe
+Besponsa	Finland	Y	H	Western Europe
+Xadago	Finland	Y	H	Western Europe
+Aliqopa	France	N	H	Western Europe
+Bevyxxa	France	N	H	Western Europe
+Gamifant	France	N	H	Western Europe
+Lumoxiti	France	N	H	Western Europe
+Tibsovo	France	Y	H	Western Europe
+Calquence	France	Y	H	Western Europe
+Copiktra	France	Y	H	Western Europe
+Symproic	France	Y	H	Western Europe
+Giapreza	France	Y	H	Western Europe
+Alunbrig	France	Y	H	Western Europe
+Imfinzi	France	Y	H	Western Europe
+Epidioloex	France	Y	H	Western Europe
+Nerlynx	France	Y	H	Western Europe
+Macrilen	France	Y	H	Western Europe
+Doptelet	France	Y	H	Western Europe
+Verzenio	France	Y	H	Western Europe
+Erleada	France	Y	H	Western Europe
+Xospata	France	Y	H	Western Europe
+Ocrevus	France	Y	H	Western Europe
+Libtayo	France	Y	H	Western Europe
+Vitrakvi	France	Y	H	Western Europe
+Symdeko	France	Y	H	Western Europe
+Talzenna	France	Y	H	Western Europe
+Zejula	France	Y	H	Western Europe
+Xermelo	France	Y	H	Western Europe
+Lorbrena	France	Y	H	Western Europe
+Ultomiris	France	Y	H	Western Europe
+Bavencio	France	Y	H	Western Europe
+Dupixent	France	Y	H	Western Europe
+Kisqali	France	Y	H	Western Europe
+Siliq	France	Y	H	Western Europe
+Rydapt	France	Y	H	Western Europe
+Biktarvy	France	Y	H	Western Europe
+Hemlibra	France	Y	H	Western Europe
+Poteligeo	France	Y	H	Western Europe
+Ozempic	France	Y	H	Western Europe
+Aimovig	France	Y	H	Western Europe
+Braftovi	France	Y	H	Western Europe
+Mektovi	France	Y	H	Western Europe
+Fasenra	France	Y	H	Western Europe
+Kevzara	France	Y	H	Western Europe
+Emgality	France	Y	H	Western Europe
+Vosevi	France	Y	H	Western Europe
+Onpattro	France	Y	H	Western Europe
+Xerava	France	Y	H	Western Europe
+Besponsa	France	Y	H	Western Europe
+Crysvita	France	Y	H	Western Europe
+Parsabiv	France	Y	H	Western Europe
+Tegsedi	France	Y	H	Western Europe
+Lutathera	France	Y	H	Western Europe
+Oxervate	France	Y	H	Western Europe
+Olumiant	France	Y	H	Western Europe
+Xadago	France	Y	H	Western Europe
+Galafold	France	Y	H	Western Europe
+Motegrity	France	Y	H	Western Europe
+Firdapse	France	Y	H	Western Europe
+Baxdela	Georgia	N	LM	Eastern Europe
+Bevyxxa	Georgia	N	LM	Eastern Europe
+Akynzeo	Georgia	N	LM	Eastern Europe
+Copiktra	Georgia	N	LM	Eastern Europe
+Nuzyra	Georgia	N	LM	Eastern Europe
+Xerava	Georgia	N	LM	Eastern Europe
+Aliqopa	Germany	N	H	Western Europe
+Austedo	Germany	N	H	Western Europe
+Bevyxxa	Germany	N	H	Western Europe
+Gamifant	Germany	N	H	Western Europe
+Lumoxiti	Germany	N	H	Western Europe
+Nuzyra	Germany	N	H	Western Europe
+Emflaza	Germany	N	H	Western Europe
+Tibsovo	Germany	Y	H	Western Europe
+Calquence	Germany	Y	H	Western Europe
+Copiktra	Germany	Y	H	Western Europe
+Symproic	Germany	Y	H	Western Europe
+Giapreza	Germany	Y	H	Western Europe
+Tavalisse	Germany	Y	H	Western Europe
+Daurismo	Germany	Y	H	Western Europe
+Alunbrig	Germany	Y	H	Western Europe
+Imfinzi	Germany	Y	H	Western Europe
+Nerlynx	Germany	Y	H	Western Europe
+Macrilen	Germany	Y	H	Western Europe
+Doptelet	Germany	Y	H	Western Europe
+Verzenio	Germany	Y	H	Western Europe
+Erleada	Germany	Y	H	Western Europe
+Xospata	Germany	Y	H	Western Europe
+Ocrevus	Germany	Y	H	Western Europe
+Libtayo	Germany	Y	H	Western Europe
+Vitrakvi	Germany	Y	H	Western Europe
+Symdeko	Germany	Y	H	Western Europe
+Talzenna	Germany	Y	H	Western Europe
+Zejula	Germany	Y	H	Western Europe
+Xermelo	Germany	Y	H	Western Europe
+Lorbrena	Germany	Y	H	Western Europe
+Ultomiris	Germany	Y	H	Western Europe
+Bavencio	Germany	Y	H	Western Europe
+Dupixent	Germany	Y	H	Western Europe
+Kisqali	Germany	Y	H	Western Europe
+Siliq	Germany	Y	H	Western Europe
+Rydapt	Germany	Y	H	Western Europe
+Biktarvy	Germany	Y	H	Western Europe
+Hemlibra	Germany	Y	H	Western Europe
+Tremfya	Germany	Y	H	Western Europe
+Poteligeo	Germany	Y	H	Western Europe
+Ozempic	Germany	Y	H	Western Europe
+Prevymis	Germany	Y	H	Western Europe
+Aimovig	Germany	Y	H	Western Europe
+Braftovi	Germany	Y	H	Western Europe
+Mektovi	Germany	Y	H	Western Europe
+Takhzyro	Germany	Y	H	Western Europe
+Brineura	Germany	Y	H	Western Europe
+Fasenra	Germany	Y	H	Western Europe
+Kevzara	Germany	Y	H	Western Europe
+Emgality	Germany	Y	H	Western Europe
+Vosevi	Germany	Y	H	Western Europe
+Onpattro	Germany	Y	H	Western Europe
+Xerava	Germany	Y	H	Western Europe
+Besponsa	Germany	Y	H	Western Europe
+Lokelma	Germany	Y	H	Western Europe
+Parsabiv	Germany	Y	H	Western Europe
+Tegsedi	Germany	Y	H	Western Europe
+Lutathera	Germany	Y	H	Western Europe
+Oxervate	Germany	Y	H	Western Europe
+Olumiant	Germany	Y	H	Western Europe
+Xadago	Germany	Y	H	Western Europe
+Akynzeo	Germany	Y	H	Western Europe
+Motegrity	Germany	Y	H	Western Europe
+Firdapse	Germany	Y	H	Western Europe
+Moxidectin	Ghana	N	LM	Africa
+Aliqopa	Greece	N	H	Western Europe
+Nuzyra	Greece	N	H	Western Europe
+Calquence	Greece	Y	H	Western Europe
+Imfinzi	Greece	Y	H	Western Europe
+Vabomere	Greece	Y	H	Western Europe
+Nerlynx	Greece	Y	H	Western Europe
+Verzenio	Greece	Y	H	Western Europe
+Ocrevus	Greece	Y	H	Western Europe
+Libtayo	Greece	Y	H	Western Europe
+Vitrakvi	Greece	Y	H	Western Europe
+Kisqali	Greece	Y	H	Western Europe
+Ozempic	Greece	Y	H	Western Europe
+Aimovig	Greece	Y	H	Western Europe
+Braftovi	Greece	Y	H	Western Europe
+Mektovi	Greece	Y	H	Western Europe
+Kevzara	Greece	Y	H	Western Europe
+Parsabiv	Greece	Y	H	Western Europe
+Olumiant	Greece	Y	H	Western Europe
+Akynzeo	Greece	Y	H	Western Europe
+Kevzara	Guatemala	N	LM	Latin America and Carribean
+Aemcolo	Guatemala	N	LM	Latin America and Carribean
+Aliqopa	Hong Kong	N	H	Asia
+Tymlos	Hong Kong	N	H	Asia
+Lorbrena	Hong Kong	N	H	Asia
+Dupixent	Hong Kong	Y	H	Asia
+Calquence	Hong Kong	Y	H	Asia
+Nerlynx	Hong Kong	Y	H	Asia
+Ozempic	Hong Kong	Y	H	Asia
+Alunbrig	Hong Kong	Y	H	Asia
+Besponsa	Hong Kong	Y	H	Asia
+Vizimpro	Hong Kong	Y	H	Asia
+Kisqali	Hong Kong	Y	H	Asia
+Aliqopa	Hungary	N	H	Eastern Europe
+Austedo	Hungary	N	H	Eastern Europe
+Bevyxxa	Hungary	N	H	Eastern Europe
+Annovera	Hungary	N	H	Eastern Europe
+Nuzyra	Hungary	N	H	Eastern Europe
+Calquence	Hungary	Y	H	Eastern Europe
+Copiktra	Hungary	Y	H	Eastern Europe
+Baxdela	Hungary	Y	H	Eastern Europe
+Symproic	Hungary	Y	H	Eastern Europe
+Tavalisse	Hungary	Y	H	Eastern Europe
+Imfinzi	Hungary	Y	H	Eastern Europe
+Vabomere	Hungary	Y	H	Eastern Europe
+Nerlynx	Hungary	Y	H	Eastern Europe
+Doptelet	Hungary	Y	H	Eastern Europe
+Erleada	Hungary	Y	H	Eastern Europe
+Ocrevus	Hungary	Y	H	Eastern Europe
+Vitrakvi	Hungary	Y	H	Eastern Europe
+Zejula	Hungary	Y	H	Eastern Europe
+Dupixent	Hungary	Y	H	Eastern Europe
+Kisqali	Hungary	Y	H	Eastern Europe
+Siliq	Hungary	Y	H	Eastern Europe
+Tremfya	Hungary	Y	H	Eastern Europe
+Ozempic	Hungary	Y	H	Eastern Europe
+Braftovi	Hungary	Y	H	Eastern Europe
+Mektovi	Hungary	Y	H	Eastern Europe
+Fasenra	Hungary	Y	H	Eastern Europe
+Kevzara	Hungary	Y	H	Eastern Europe
+Emgality	Hungary	Y	H	Eastern Europe
+Xerava	Hungary	Y	H	Eastern Europe
+Besponsa	Hungary	Y	H	Eastern Europe
+Parsabiv	Hungary	Y	H	Eastern Europe
+Olumiant	Hungary	Y	H	Eastern Europe
+Xadago	Hungary	Y	H	Eastern Europe
+Akynzeo	Hungary	Y	H	Eastern Europe
+Motegrity	Hungary	Y	H	Eastern Europe
+Firdapse	Hungary	Y	H	Eastern Europe
+Besponsa	India	N	LM	Asia
+Kevzara	India	N	LM	Asia
+Kisqali	India	N	LM	Asia
+Nerlynx	India	N	LM	Asia
+Ozempic	India	N	LM	Asia
+Aemcolo	India	N	LM	Asia
+Krintafel	India	N	LM	Asia
+Olumiant	India	N	LM	Asia
+Vitrakvi	India	N	LM	Asia
+Xerava	India	N	LM	Asia
+Xadago	India	Y	LM	Asia
+Krintafel	Indonesia	N	LM	Asia
+Aliqopa	Ireland	N	H	Western Europe
+Lumoxiti	Ireland	N	H	Western Europe
+Nerlynx	Ireland	Y	H	Western Europe
+Ocrevus	Ireland	Y	H	Western Europe
+Vitrakvi	Ireland	Y	H	Western Europe
+Symdeko	Ireland	Y	H	Western Europe
+Talzenna	Ireland	Y	H	Western Europe
+Dupixent	Ireland	Y	H	Western Europe
+Kisqali	Ireland	Y	H	Western Europe
+Besponsa	Ireland	Y	H	Western Europe
+Crysvita	Ireland	Y	H	Western Europe
+Baxdela	Israel	N	H	Middle East
+Bevyxxa	Israel	N	H	Middle East
+Imfinzi	Israel	N	H	Middle East
+Symproic	Israel	N	H	Middle East
+Vabomere	Israel	N	H	Middle East
+Doptelet	Israel	N	H	Middle East
+Lumoxiti	Israel	N	H	Middle East
+Nuzyra	Israel	N	H	Middle East
+Verzenio	Israel	Y	H	Middle East
+Zejula	Israel	Y	H	Middle East
+Xadago	Israel	Y	H	Middle East
+Aliqopa	Israel	Y	H	Middle East
+Nerlynx	Israel	Y	H	Middle East
+Xermelo	Israel	Y	H	Middle East
+Calquence	Israel	Y	H	Middle East
+Kevzara	Israel	Y	H	Middle East
+Vitrakvi	Israel	Y	H	Middle East
+Xospata	Israel	Y	H	Middle East
+Ozempic	Israel	Y	H	Middle East
+Talzenna	Israel	Y	H	Middle East
+Parsabiv	Israel	Y	H	Middle East
+Erleada	Israel	Y	H	Middle East
+Symdeko	Israel	Y	H	Middle East
+Kisqali	Israel	Y	H	Middle East
+Emgality	Israel	Y	H	Middle East
+Olumiant	Israel	Y	H	Middle East
+Ajovy	Israel	Y	H	Middle East
+Braftovi	Israel	Y	H	Middle East
+Mektovi	Israel	Y	H	Middle East
+Ocrevus	Israel	Y	H	Middle East
+Akynzeo	Israel	Y	H	Middle East
+Aliqopa	Italy	N	H	Western Europe
+Bevyxxa	Italy	N	H	Western Europe
+Gamifant	Italy	N	H	Western Europe
+Lumoxiti	Italy	N	H	Western Europe
+Emflaza	Italy	N	H	Western Europe
+Tibsovo	Italy	Y	H	Western Europe
+Calquence	Italy	Y	H	Western Europe
+Copiktra	Italy	Y	H	Western Europe
+Symproic	Italy	Y	H	Western Europe
+Tavalisse	Italy	Y	H	Western Europe
+Daurismo	Italy	Y	H	Western Europe
+Alunbrig	Italy	Y	H	Western Europe
+Imfinzi	Italy	Y	H	Western Europe
+Vabomere	Italy	Y	H	Western Europe
+Nerlynx	Italy	Y	H	Western Europe
+Macrilen	Italy	Y	H	Western Europe
+Doptelet	Italy	Y	H	Western Europe
+Verzenio	Italy	Y	H	Western Europe
+Xospata	Italy	Y	H	Western Europe
+Ocrevus	Italy	Y	H	Western Europe
+Libtayo	Italy	Y	H	Western Europe
+Vitrakvi	Italy	Y	H	Western Europe
+Symdeko	Italy	Y	H	Western Europe
+Talzenna	Italy	Y	H	Western Europe
+Zejula	Italy	Y	H	Western Europe
+Xermelo	Italy	Y	H	Western Europe
+Lorbrena	Italy	Y	H	Western Europe
+Ultomiris	Italy	Y	H	Western Europe
+Vizimpro	Italy	Y	H	Western Europe
+Bavencio	Italy	Y	H	Western Europe
+Dupixent	Italy	Y	H	Western Europe
+Kisqali	Italy	Y	H	Western Europe
+Rydapt	Italy	Y	H	Western Europe
+Biktarvy	Italy	Y	H	Western Europe
+Hemlibra	Italy	Y	H	Western Europe
+Poteligeo	Italy	Y	H	Western Europe
+Ozempic	Italy	Y	H	Western Europe
+Braftovi	Italy	Y	H	Western Europe
+Mektovi	Italy	Y	H	Western Europe
+Takhzyro	Italy	Y	H	Western Europe
+Brineura	Italy	Y	H	Western Europe
+Fasenra	Italy	Y	H	Western Europe
+Kevzara	Italy	Y	H	Western Europe
+Emgality	Italy	Y	H	Western Europe
+Onpattro	Italy	Y	H	Western Europe
+Besponsa	Italy	Y	H	Western Europe
+Crysvita	Italy	Y	H	Western Europe
+Parsabiv	Italy	Y	H	Western Europe
+Tegsedi	Italy	Y	H	Western Europe
+Lutathera	Italy	Y	H	Western Europe
+Oxervate	Italy	Y	H	Western Europe
+Olumiant	Italy	Y	H	Western Europe
+Xadago	Italy	Y	H	Western Europe
+Galafold	Italy	Y	H	Western Europe
+Akynzeo	Italy	Y	H	Western Europe
+Motegrity	Italy	Y	H	Western Europe
+Aliqopa	Japan	N	H	Asia
+Nerlynx	Japan	N	H	Asia
+Ocrevus	Japan	N	H	Asia
+Vyzulta	Japan	N	H	Asia
+Daurismo	Japan	N	H	Asia
+Doptelet	Japan	Y	H	Asia
+Galafold	Japan	Y	H	Asia
+Lorbrena	Japan	Y	H	Asia
+Ajovy	Japan	Y	H	Asia
+Ozempic	Japan	Y	H	Asia
+Olumiant	Japan	Y	H	Asia
+Mektovi	Japan	Y	H	Asia
+Vitrakvi	Japan	Y	H	Asia
+Crysvita	Japan	Y	H	Asia
+Imfinzi	Japan	Y	H	Asia
+Erleada	Japan	Y	H	Asia
+Poteligeo	Japan	Y	H	Asia
+Verzenio	Japan	Y	H	Asia
+Onpattro	Japan	Y	H	Asia
+Dupixent	Japan	Y	H	Asia
+Tremfya	Japan	Y	H	Asia
+Bavencio	Japan	Y	H	Asia
+Braftovi	Japan	Y	H	Asia
+Besponsa	Japan	Y	H	Asia
+Ultomiris	Japan	Y	H	Asia
+Hemlibra	Japan	Y	H	Asia
+Kevzara	Japan	Y	H	Asia
+Vizimpro	Japan	Y	H	Asia
+Fasenra	Japan	Y	H	Asia
+Xospata	Japan	Y	H	Asia
+Radicava	Japan	Y	H	Asia
+Xepi	Japan	Y	H	Asia
+Nerlynx	Jordan	N	UM	Middle East
+Takhzyro	Jordan	N	UM	Middle East
+Kisqali	Jordan	Y	UM	Middle East
+Bevyxxa	Latvia	N	H	Eastern Europe
+Nuzyra	Latvia	N	H	Eastern Europe
+Baxdela	Latvia	Y	H	Eastern Europe
+Ocrevus	Latvia	Y	H	Eastern Europe
+Aimovig	Latvia	Y	H	Eastern Europe
+Kevzara	Latvia	Y	H	Eastern Europe
+Xerava	Latvia	Y	H	Eastern Europe
+Parsabiv	Latvia	Y	H	Eastern Europe
+Olumiant	Latvia	Y	H	Eastern Europe
+Kisqali	Lebanon	Y	UM	Middle East
+Moxidectin	Liberia	N	L	Africa
+Aliqopa	Lithuania	N	H	Eastern Europe
+Bevyxxa	Lithuania	N	H	Eastern Europe
+Tymlos	Lithuania	Y	H	Eastern Europe
+Nerlynx	Lithuania	Y	H	Eastern Europe
+Ocrevus	Lithuania	Y	H	Eastern Europe
+Xermelo	Lithuania	Y	H	Eastern Europe
+Dupixent	Lithuania	Y	H	Eastern Europe
+Kevzara	Lithuania	Y	H	Eastern Europe
+Xerava	Lithuania	Y	H	Eastern Europe
+Besponsa	Lithuania	Y	H	Eastern Europe
+Parsabiv	Lithuania	Y	H	Eastern Europe
+Olumiant	Lithuania	Y	H	Eastern Europe
+Akynzeo	Lithuania	Y	H	Eastern Europe
+Alunbrig	Luxembourg	Y	H	Western Europe
+Aliqopa	Malaysia	N	UM	Asia
+Kevzara	Malaysia	N	UM	Asia
+Xadago	Malaysia	N	UM	Asia
+Onpattro	Malaysia	N	UM	Asia
+Ultomiris	Malaysia	N	UM	Asia
+Kisqali	Malaysia	Y	UM	Asia
+Nerlynx	Malaysia	Y	UM	Asia
+Ozempic	Malaysia	Y	UM	Asia
+Nerlynx	Malta	Y	H	Western Europe
+Baxdela	Moldova	N	LM	Eastern Europe
+Tibsovo	Netherlands	Y	H	Eastern Europe
+Calquence	Netherlands	Y	H	Eastern Europe
+Tavalisse	Netherlands	Y	H	Eastern Europe
+Alunbrig	Netherlands	Y	H	Eastern Europe
+Imfinzi	Netherlands	Y	H	Eastern Europe
+Epidioloex	Netherlands	Y	H	Eastern Europe
+Nerlynx	Netherlands	Y	H	Eastern Europe
+Verzenio	Netherlands	Y	H	Eastern Europe
+Erleada	Netherlands	Y	H	Eastern Europe
+Ocrevus	Netherlands	Y	H	Eastern Europe
+Vitrakvi	Netherlands	Y	H	Eastern Europe
+Symdeko	Netherlands	Y	H	Eastern Europe
+Xermelo	Netherlands	Y	H	Eastern Europe
+Ultomiris	Netherlands	Y	H	Eastern Europe
+Dupixent	Netherlands	Y	H	Eastern Europe
+Kisqali	Netherlands	Y	H	Eastern Europe
+Siliq	Netherlands	Y	H	Eastern Europe
+Rydapt	Netherlands	Y	H	Eastern Europe
+Poteligeo	Netherlands	Y	H	Eastern Europe
+Ozempic	Netherlands	Y	H	Eastern Europe
+Aimovig	Netherlands	Y	H	Eastern Europe
+Braftovi	Netherlands	Y	H	Eastern Europe
+Mektovi	Netherlands	Y	H	Eastern Europe
+Kevzara	Netherlands	Y	H	Eastern Europe
+Emgality	Netherlands	Y	H	Eastern Europe
+Onpattro	Netherlands	Y	H	Eastern Europe
+Besponsa	Netherlands	Y	H	Eastern Europe
+Crysvita	Netherlands	Y	H	Eastern Europe
+Lokelma	Netherlands	Y	H	Eastern Europe
+Parsabiv	Netherlands	Y	H	Eastern Europe
+Olumiant	Netherlands	Y	H	Eastern Europe
+Xadago	Netherlands	Y	H	Eastern Europe
+Motegrity	Netherlands	Y	H	Eastern Europe
+Aliqopa	New Zealand	N	H	Oceania
+Dupixent	New Zealand	N	H	Oceania
+Giapreza	New Zealand	N	H	Oceania
+Kevzara	New Zealand	N	H	Oceania
+Parsabiv	New Zealand	N	H	Oceania
+Verzenio	New Zealand	N	H	Oceania
+Xadago	New Zealand	N	H	Oceania
+Copiktra	New Zealand	N	H	Oceania
+Tegsedi	New Zealand	N	H	Oceania
+Vizimpro	New Zealand	N	H	Oceania
+Nerlynx	New Zealand	Y	H	Oceania
+Erleada	New Zealand	Y	H	Oceania
+Aimovig	New Zealand	Y	H	Oceania
+Vosevi	New Zealand	Y	H	Oceania
+Hemlibra	New Zealand	Y	H	Oceania
+Ocrevus	New Zealand	Y	H	Oceania
+Lumoxiti	Norway	N	H	Western Europe
+Tavalisse	Norway	Y	H	Western Europe
+Alunbrig	Norway	Y	H	Western Europe
+Erleada	Norway	Y	H	Western Europe
+Ocrevus	Norway	Y	H	Western Europe
+Vitrakvi	Norway	Y	H	Western Europe
+Zejula	Norway	Y	H	Western Europe
+Kisqali	Norway	Y	H	Western Europe
+Rydapt	Norway	Y	H	Western Europe
+Ozempic	Norway	Y	H	Western Europe
+Aimovig	Norway	Y	H	Western Europe
+Braftovi	Norway	Y	H	Western Europe
+Mektovi	Norway	Y	H	Western Europe
+Kevzara	Norway	Y	H	Western Europe
+Baxdela	Peru	N	UM	Latin America and Carribean
+Bevyxxa	Peru	N	UM	Latin America and Carribean
+Kevzara	Peru	N	UM	Latin America and Carribean
+Vabomere	Peru	N	UM	Latin America and Carribean
+Xadago	Peru	N	UM	Latin America and Carribean
+Krintafel	Peru	N	UM	Latin America and Carribean
+Nuzyra	Peru	N	UM	Latin America and Carribean
+Vizimpro	Peru	N	UM	Latin America and Carribean
+Fasenra	Peru	Y	UM	Latin America and Carribean
+Nerlynx	Peru	Y	UM	Latin America and Carribean
+Ocrevus	Peru	Y	UM	Latin America and Carribean
+Aliqopa	Philippines	N	LM	Asia
+Fasenra	Philippines	N	LM	Asia
+Kevzara	Philippines	N	LM	Asia
+Nuzyra	Philippines	N	LM	Asia
+Imfinzi	Philippines	Y	LM	Asia
+Krintafel	Philippines	Y	LM	Asia
+Vizimpro	Philippines	Y	LM	Asia
+Aliqopa	Poland	N	H	Eastern Europe
+Austedo	Poland	N	H	Eastern Europe
+Bevyxxa	Poland	N	H	Eastern Europe
+Lumoxiti	Poland	N	H	Eastern Europe
+Nuzyra	Poland	N	H	Eastern Europe
+Calquence	Poland	Y	H	Eastern Europe
+Symproic	Poland	Y	H	Eastern Europe
+Tymlos	Poland	Y	H	Eastern Europe
+Tavalisse	Poland	Y	H	Eastern Europe
+Daurismo	Poland	Y	H	Eastern Europe
+Imfinzi	Poland	Y	H	Eastern Europe
+Vabomere	Poland	Y	H	Eastern Europe
+Epidioloex	Poland	Y	H	Eastern Europe
+Nerlynx	Poland	Y	H	Eastern Europe
+Macrilen	Poland	Y	H	Eastern Europe
+Doptelet	Poland	Y	H	Eastern Europe
+Verzenio	Poland	Y	H	Eastern Europe
+Erleada	Poland	Y	H	Eastern Europe
+Xospata	Poland	Y	H	Eastern Europe
+Ocrevus	Poland	Y	H	Eastern Europe
+Vitrakvi	Poland	Y	H	Eastern Europe
+Talzenna	Poland	Y	H	Eastern Europe
+Zejula	Poland	Y	H	Eastern Europe
+Xermelo	Poland	Y	H	Eastern Europe
+Ajovy	Poland	Y	H	Eastern Europe
+Ultomiris	Poland	Y	H	Eastern Europe
+Vizimpro	Poland	Y	H	Eastern Europe
+Dupixent	Poland	Y	H	Eastern Europe
+Kisqali	Poland	Y	H	Eastern Europe
+Siliq	Poland	Y	H	Eastern Europe
+Rydapt	Poland	Y	H	Eastern Europe
+Hemlibra	Poland	Y	H	Eastern Europe
+Tremfya	Poland	Y	H	Eastern Europe
+Ozempic	Poland	Y	H	Eastern Europe
+Aimovig	Poland	Y	H	Eastern Europe
+Braftovi	Poland	Y	H	Eastern Europe
+Mektovi	Poland	Y	H	Eastern Europe
+Fasenra	Poland	Y	H	Eastern Europe
+Kevzara	Poland	Y	H	Eastern Europe
+Besponsa	Poland	Y	H	Eastern Europe
+Parsabiv	Poland	Y	H	Eastern Europe
+Oxervate	Poland	Y	H	Eastern Europe
+Olumiant	Poland	Y	H	Eastern Europe
+Xadago	Poland	Y	H	Eastern Europe
+Galafold	Poland	Y	H	Eastern Europe
+Akynzeo	Poland	Y	H	Eastern Europe
+Motegrity	Poland	Y	H	Eastern Europe
+Firdapse	Poland	Y	H	Eastern Europe
+Aliqopa	Portugal	N	H	Western Europe
+Tibsovo	Portugal	Y	H	Western Europe
+Imfinzi	Portugal	Y	H	Western Europe
+Doptelet	Portugal	Y	H	Western Europe
+Mepsevii	Portugal	Y	H	Western Europe
+Ocrevus	Portugal	Y	H	Western Europe
+Vitrakvi	Portugal	Y	H	Western Europe
+Kisqali	Portugal	Y	H	Western Europe
+Siliq	Portugal	Y	H	Western Europe
+Ozempic	Portugal	Y	H	Western Europe
+Aimovig	Portugal	Y	H	Western Europe
+Braftovi	Portugal	Y	H	Western Europe
+Mektovi	Portugal	Y	H	Western Europe
+Kevzara	Portugal	Y	H	Western Europe
+Onpattro	Portugal	Y	H	Western Europe
+Besponsa	Portugal	Y	H	Western Europe
+Parsabiv	Portugal	Y	H	Western Europe
+Tegsedi	Portugal	Y	H	Western Europe
+Lutathera	Portugal	Y	H	Western Europe
+Olumiant	Portugal	Y	H	Western Europe
+Xadago	Portugal	Y	H	Western Europe
+Baxdela	Puerto Rico	Y	H	Latin America and Carribean
+Besponsa	Puerto Rico	Y	H	Latin America and Carribean
+Ingrezza	Puerto Rico	Y	H	Latin America and Carribean
+Nerlynx	Puerto Rico	Y	H	Latin America and Carribean
+Ozempic	Puerto Rico	Y	H	Latin America and Carribean
+Verzenio	Puerto Rico	Y	H	Latin America and Carribean
+Vosevi	Puerto Rico	Y	H	Latin America and Carribean
+Asparlas	Puerto Rico	Y	H	Latin America and Carribean
+Biktarvy	Puerto Rico	Y	H	Latin America and Carribean
+Emgality	Puerto Rico	Y	H	Latin America and Carribean
+Olumiant	Puerto Rico	Y	H	Latin America and Carribean
+Takhzyro	Puerto Rico	Y	H	Latin America and Carribean
+Trogarzo	Puerto Rico	Y	H	Latin America and Carribean
+Vizimpro	Puerto Rico	Y	H	Latin America and Carribean
+Aliqopa	Romania	N	UM	Eastern Europe
+Bevyxxa	Romania	N	UM	Eastern Europe
+Nuzyra	Romania	N	UM	Eastern Europe
+Baxdela	Romania	Y	UM	Eastern Europe
+Tymlos	Romania	Y	UM	Eastern Europe
+Tavalisse	Romania	Y	UM	Eastern Europe
+Vabomere	Romania	Y	UM	Eastern Europe
+Nerlynx	Romania	Y	UM	Eastern Europe
+Doptelet	Romania	Y	UM	Eastern Europe
+Verzenio	Romania	Y	UM	Eastern Europe
+Erleada	Romania	Y	UM	Eastern Europe
+Ocrevus	Romania	Y	UM	Eastern Europe
+Dupixent	Romania	Y	UM	Eastern Europe
+Ozempic	Romania	Y	UM	Eastern Europe
+Aimovig	Romania	Y	UM	Eastern Europe
+Fasenra	Romania	Y	UM	Eastern Europe
+Kevzara	Romania	Y	UM	Eastern Europe
+Xerava	Romania	Y	UM	Eastern Europe
+Lokelma	Romania	Y	UM	Eastern Europe
+Olumiant	Romania	Y	UM	Eastern Europe
+Xadago	Romania	Y	UM	Eastern Europe
+Akynzeo	Romania	Y	UM	Eastern Europe
+Motegrity	Romania	Y	UM	Eastern Europe
+Aliqopa	Russian Federation	N	H	Eastern Europe
+Baxdela	Russian Federation	N	H	Eastern Europe
+Bevyxxa	Russian Federation	N	H	Eastern Europe
+Nerlynx	Russian Federation	N	H	Eastern Europe
+Parsabiv	Russian Federation	N	H	Eastern Europe
+Siliq	Russian Federation	N	H	Eastern Europe
+Verzenio	Russian Federation	N	H	Eastern Europe
+Firdapse	Russian Federation	N	H	Eastern Europe
+Nuzyra	Russian Federation	N	H	Eastern Europe
+Xerava	Russian Federation	N	H	Eastern Europe
+Tremfya	Russian Federation	N	H	Eastern Europe
+Erleada	Russian Federation	N	H	Eastern Europe
+Akynzeo	Russian Federation	N	H	Eastern Europe
+Olumiant	Russian Federation	N	H	Eastern Europe
+Mektovi	Russian Federation	N	H	Eastern Europe
+Braftovi	Russian Federation	N	H	Eastern Europe
+Doptelet	Russian Federation	N	H	Eastern Europe
+Aimovig	Russian Federation	Y	H	Eastern Europe
+Ajovy	Russian Federation	Y	H	Eastern Europe
+Ultomiris	Russian Federation	Y	H	Eastern Europe
+Vitrakvi	Russian Federation	Y	H	Eastern Europe
+Talzenna	Russian Federation	Y	H	Eastern Europe
+Imfinzi	Russian Federation	Y	H	Eastern Europe
+Dupixent	Russian Federation	Y	H	Eastern Europe
+Ozempic	Russian Federation	Y	H	Eastern Europe
+Fasenra	Russian Federation	Y	H	Eastern Europe
+Kevzara	Russian Federation	Y	H	Eastern Europe
+Kisqali	Russian Federation	Y	H	Eastern Europe
+Ocrevus	Russian Federation	Y	H	Eastern Europe
+Besponsa	Russian Federation	Y	H	Eastern Europe
+Kisqali	Saudi Arabia	Y	H	Middle East
+Bevyxxa	Serbia	N	UM	Eastern Europe
+Macrilen	Serbia	N	UM	Eastern Europe
+Nerlynx	Serbia	N	UM	Eastern Europe
+Firdapse	Serbia	N	UM	Eastern Europe
+Lumoxiti	Serbia	N	UM	Eastern Europe
+Akynzeo	Serbia	Y	UM	Eastern Europe
+Ozempic	Serbia	Y	UM	Eastern Europe
+Ocrevus	Serbia	Y	UM	Eastern Europe
+Aliqopa	Singapore	N	H	Asia
+Bevyxxa	Singapore	N	H	Asia
+Ultomiris	Singapore	N	H	Asia
+Imfinzi	Singapore	N	H	Asia
+Braftovi	Singapore	N	H	Asia
+Mektovi	Singapore	N	H	Asia
+Dupixent	Singapore	Y	H	Asia
+Vitrakvi	Singapore	Y	H	Asia
+Lorbrena	Singapore	Y	H	Asia
+Vizimpro	Singapore	Y	H	Asia
+Tremfya	Singapore	Y	H	Asia
+Nerlynx	Singapore	Y	H	Asia
+Alunbrig	Singapore	Y	H	Asia
+Besponsa	Singapore	Y	H	Asia
+Kisqali	Singapore	Y	H	Asia
+Aliqopa	Slovakia	N	H	Eastern Europe
+Austedo	Slovakia	N	H	Eastern Europe
+Bevyxxa	Slovakia	N	H	Eastern Europe
+Nuzyra	Slovakia	N	H	Eastern Europe
+Baxdela	Slovakia	Y	H	Eastern Europe
+Vabomere	Slovakia	Y	H	Eastern Europe
+Nerlynx	Slovakia	Y	H	Eastern Europe
+Verzenio	Slovakia	Y	H	Eastern Europe
+Erleada	Slovakia	Y	H	Eastern Europe
+Ocrevus	Slovakia	Y	H	Eastern Europe
+Vitrakvi	Slovakia	Y	H	Eastern Europe
+Xermelo	Slovakia	Y	H	Eastern Europe
+Dupixent	Slovakia	Y	H	Eastern Europe
+Ozempic	Slovakia	Y	H	Eastern Europe
+Aimovig	Slovakia	Y	H	Eastern Europe
+Braftovi	Slovakia	Y	H	Eastern Europe
+Mektovi	Slovakia	Y	H	Eastern Europe
+Fasenra	Slovakia	Y	H	Eastern Europe
+Kevzara	Slovakia	Y	H	Eastern Europe
+Besponsa	Slovakia	Y	H	Eastern Europe
+Olumiant	Slovakia	Y	H	Eastern Europe
+Xadago	Slovakia	Y	H	Eastern Europe
+Motegrity	Slovakia	Y	H	Eastern Europe
+Vabomere	Slovenia	Y	H	Eastern Europe
+Nerlynx	Slovenia	Y	H	Eastern Europe
+Ocrevus	Slovenia	Y	H	Eastern Europe
+Ozempic	Slovenia	Y	H	Eastern Europe
+Olumiant	Slovenia	Y	H	Eastern Europe
+Aliqopa	South Africa	N	UM	Africa
+Besponsa	South Africa	N	UM	Africa
+Bevyxxa	South Africa	N	UM	Africa
+Kevzara	South Africa	N	UM	Africa
+Kisqali	South Africa	N	UM	Africa
+Symproic	South Africa	N	UM	Africa
+Aimovig	South Africa	N	UM	Africa
+Braftovi	South Africa	N	UM	Africa
+Lokelma	South Africa	N	UM	Africa
+Mektovi	South Africa	N	UM	Africa
+Nuzyra	South Africa	N	UM	Africa
+Xerava	South Africa	N	UM	Africa
+Xadago	South Africa	N	UM	Africa
+Nerlynx	South Africa	N	UM	Africa
+Fasenra	South Africa	Y	UM	Africa
+Ocrevus	South Africa	Y	UM	Africa
+Ozempic	South Africa	Y	UM	Africa
+Akynzeo	South Africa	Y	UM	Africa
+Olumiant	South Africa	Y	UM	Africa
+Hemlibra	South Africa	Y	UM	Africa
+Aliqopa	South Korea	N	H	Asia
+Baxdela	South Korea	N	H	Asia
+Kevzara	South Korea	N	H	Asia
+Siliq	South Korea	N	H	Asia
+Vabomere	South Korea	N	H	Asia
+Doptelet	South Korea	N	H	Asia
+Emgality	South Korea	N	H	Asia
+Lorbrena	South Korea	N	H	Asia
+Mektovi	South Korea	N	H	Asia
+Motegrity	South Korea	N	H	Asia
+Moxidectin	South Korea	N	H	Asia
+Nuzyra	South Korea	N	H	Asia
+Olumiant	South Korea	N	H	Asia
+Onpattro	South Korea	N	H	Asia
+Tibsovo	South Korea	N	H	Asia
+Ultomiris	South Korea	N	H	Asia
+Dupixent	South Korea	N	H	Asia
+Nerlynx	South Korea	Y	H	Asia
+Xadago	South Korea	Y	H	Asia
+Braftovi	South Korea	Y	H	Asia
+Erleada	South Korea	Y	H	Asia
+Kisqali	South Korea	Y	H	Asia
+Crysvita	South Korea	Y	H	Asia
+Talzenna	South Korea	Y	H	Asia
+Alunbrig	South Korea	Y	H	Asia
+Imfinzi	South Korea	Y	H	Asia
+Verzenio	South Korea	Y	H	Asia
+Fasenra	South Korea	Y	H	Asia
+Vitrakvi	South Korea	Y	H	Asia
+Besponsa	South Korea	Y	H	Asia
+Vizimpro	South Korea	Y	H	Asia
+Xospata	South Korea	Y	H	Asia
+Hemlibra	South Korea	Y	H	Asia
+Tremfya	South Korea	Y	H	Asia
+Aliqopa	Spain	N	H	Western Europe
+Benznidazole	Spain	N	H	Western Europe
+Bevyxxa	Spain	N	H	Western Europe
+Gamifant	Spain	N	H	Western Europe
+Lumoxiti	Spain	N	H	Western Europe
+Nuzyra	Spain	N	H	Western Europe
+Tibsovo	Spain	Y	H	Western Europe
+Calquence	Spain	Y	H	Western Europe
+Copiktra	Spain	Y	H	Western Europe
+Baxdela	Spain	Y	H	Western Europe
+Symproic	Spain	Y	H	Western Europe
+Tavalisse	Spain	Y	H	Western Europe
+Daurismo	Spain	Y	H	Western Europe
+Alunbrig	Spain	Y	H	Western Europe
+Imfinzi	Spain	Y	H	Western Europe
+Vabomere	Spain	Y	H	Western Europe
+Epidioloex	Spain	Y	H	Western Europe
+Nerlynx	Spain	Y	H	Western Europe
+Macrilen	Spain	Y	H	Western Europe
+Doptelet	Spain	Y	H	Western Europe
+Verzenio	Spain	Y	H	Western Europe
+Erleada	Spain	Y	H	Western Europe
+Xospata	Spain	Y	H	Western Europe
+Mepsevii	Spain	Y	H	Western Europe
+Ocrevus	Spain	Y	H	Western Europe
+Libtayo	Spain	Y	H	Western Europe
+Vitrakvi	Spain	Y	H	Western Europe
+Symdeko	Spain	Y	H	Western Europe
+Talzenna	Spain	Y	H	Western Europe
+Zejula	Spain	Y	H	Western Europe
+Xermelo	Spain	Y	H	Western Europe
+Ajovy	Spain	Y	H	Western Europe
+Lorbrena	Spain	Y	H	Western Europe
+Ultomiris	Spain	Y	H	Western Europe
+Vizimpro	Spain	Y	H	Western Europe
+Bavencio	Spain	Y	H	Western Europe
+Dupixent	Spain	Y	H	Western Europe
+Kisqali	Spain	Y	H	Western Europe
+Siliq	Spain	Y	H	Western Europe
+Biktarvy	Spain	Y	H	Western Europe
+Hemlibra	Spain	Y	H	Western Europe
+Tremfya	Spain	Y	H	Western Europe
+Poteligeo	Spain	Y	H	Western Europe
+Ozempic	Spain	Y	H	Western Europe
+Aimovig	Spain	Y	H	Western Europe
+Braftovi	Spain	Y	H	Western Europe
+Mektovi	Spain	Y	H	Western Europe
+Fasenra	Spain	Y	H	Western Europe
+Kevzara	Spain	Y	H	Western Europe
+Emgality	Spain	Y	H	Western Europe
+Onpattro	Spain	Y	H	Western Europe
+Besponsa	Spain	Y	H	Western Europe
+Parsabiv	Spain	Y	H	Western Europe
+Tegsedi	Spain	Y	H	Western Europe
+Lutathera	Spain	Y	H	Western Europe
+Oxervate	Spain	Y	H	Western Europe
+Olumiant	Spain	Y	H	Western Europe
+Xadago	Spain	Y	H	Western Europe
+Galafold	Spain	Y	H	Western Europe
+Akynzeo	Spain	Y	H	Western Europe
+Motegrity	Spain	Y	H	Western Europe
+Firdapse	Spain	Y	H	Western Europe
+Aliqopa	Sweden	N	H	Western Europe
+Annovera	Sweden	N	H	Western Europe
+Gamifant	Sweden	N	H	Western Europe
+Symproic	Sweden	Y	H	Western Europe
+Alunbrig	Sweden	Y	H	Western Europe
+Nerlynx	Sweden	Y	H	Western Europe
+Verzenio	Sweden	Y	H	Western Europe
+Erleada	Sweden	Y	H	Western Europe
+Ocrevus	Sweden	Y	H	Western Europe
+Vitrakvi	Sweden	Y	H	Western Europe
+Symdeko	Sweden	Y	H	Western Europe
+Zejula	Sweden	Y	H	Western Europe
+Xermelo	Sweden	Y	H	Western Europe
+Ultomiris	Sweden	Y	H	Western Europe
+Dupixent	Sweden	Y	H	Western Europe
+Kisqali	Sweden	Y	H	Western Europe
+Rydapt	Sweden	Y	H	Western Europe
+Ozempic	Sweden	Y	H	Western Europe
+Aimovig	Sweden	Y	H	Western Europe
+Braftovi	Sweden	Y	H	Western Europe
+Mektovi	Sweden	Y	H	Western Europe
+Fasenra	Sweden	Y	H	Western Europe
+Kevzara	Sweden	Y	H	Western Europe
+Onpattro	Sweden	Y	H	Western Europe
+Besponsa	Sweden	Y	H	Western Europe
+Parsabiv	Sweden	Y	H	Western Europe
+Olumiant	Sweden	Y	H	Western Europe
+Motegrity	Sweden	Y	H	Western Europe
+Giapreza	Switzerland	N	H	Western Europe
+Siliq	Switzerland	N	H	Western Europe
+Tibsovo	Switzerland	Y	H	Western Europe
+Alunbrig	Switzerland	Y	H	Western Europe
+Nerlynx	Switzerland	Y	H	Western Europe
+Verzenio	Switzerland	Y	H	Western Europe
+Vitrakvi	Switzerland	Y	H	Western Europe
+Symdeko	Switzerland	Y	H	Western Europe
+Kisqali	Switzerland	Y	H	Western Europe
+Parsabiv	Switzerland	Y	H	Western Europe
+Ozempic	Switzerland	Y	H	Western Europe
+Lorbrena	Switzerland	Y	H	Western Europe
+Ocrevus	Switzerland	Y	H	Western Europe
+Poteligeo	Switzerland	Y	H	Western Europe
+Aimovig	Switzerland	Y	H	Western Europe
+Braftovi	Switzerland	Y	H	Western Europe
+Mektovi	Switzerland	Y	H	Western Europe
+Besponsa	Switzerland	Y	H	Western Europe
+Olumiant	Switzerland	Y	H	Western Europe
+Xadago	Switzerland	Y	H	Western Europe
+Aliqopa	Thailand	N	UM	Asia
+Besponsa	Thailand	N	UM	Asia
+Nerlynx	Thailand	N	UM	Asia
+Xadago	Thailand	N	UM	Asia
+Doptelet	Thailand	N	UM	Asia
+Krintafel	Thailand	N	UM	Asia
+Motegrity	Thailand	N	UM	Asia
+Ultomiris	Thailand	N	UM	Asia
+Imfinzi	Thailand	N	UM	Asia
+Kisqali	Thailand	Y	UM	Asia
+Ozempic	Thailand	Y	UM	Asia
+Vizimpro	Thailand	Y	UM	Asia
+Kevzara	Thailand	Y	UM	Asia
+Ocrevus	Tunisia	Y	UM	Africa
+Aliqopa	Turkey	N	UM	Middle East
+Kevzara	Turkey	N	UM	Middle East
+Kisqali	Turkey	N	UM	Middle East
+Nerlynx	Turkey	N	UM	Middle East
+Ozempic	Turkey	N	UM	Middle East
+Parsabiv	Turkey	N	UM	Middle East
+Verzenio	Turkey	N	UM	Middle East
+Braftovi	Turkey	N	UM	Middle East
+Mektovi	Turkey	N	UM	Middle East
+Nuzyra	Turkey	N	UM	Middle East
+Olumiant	Turkey	N	UM	Middle East
+Onpattro	Turkey	N	UM	Middle East
+Ultomiris	Turkey	N	UM	Middle East
+Fasenra	Turkey	Y	UM	Middle East
+Galafold	Turkey	Y	UM	Middle East
+Imfinzi	Turkey	Y	UM	Middle East
+Vitrakvi	Turkey	Y	UM	Middle East
+Xospata	Turkey	Y	UM	Middle East
+Aimovig	Turkey	Y	UM	Middle East
+Hemlibra	Turkey	Y	UM	Middle East
+Rydapt	Turkey	Y	UM	Middle East
+Ocrevus	Turkey	Y	UM	Middle East
+Aliqopa	Ukraine	N	LM	Eastern Europe
+Baxdela	Ukraine	N	LM	Eastern Europe
+Bevyxxa	Ukraine	N	LM	Eastern Europe
+Fasenra	Ukraine	N	LM	Eastern Europe
+Kevzara	Ukraine	N	LM	Eastern Europe
+Tremfya	Ukraine	N	LM	Eastern Europe
+Vabomere	Ukraine	N	LM	Eastern Europe
+Nuzyra	Ukraine	N	LM	Eastern Europe
+Talzenna	Ukraine	N	LM	Eastern Europe
+Vitrakvi	Ukraine	N	LM	Eastern Europe
+Xerava	Ukraine	N	LM	Eastern Europe
+Akynzeo	Ukraine	N	LM	Eastern Europe
+Ocrevus	Ukraine	N	LM	Eastern Europe
+Besponsa	Ukraine	N	LM	Eastern Europe
+Ozempic	Ukraine	Y	LM	Eastern Europe
+Kisqali	United Arab Emirates	Y	H	Middle East
+Aliqopa	United Kingdom	N	H	Western Europe
+Bevyxxa	United Kingdom	N	H	Western Europe
+Gamifant	United Kingdom	N	H	Western Europe
+Lumoxiti	United Kingdom	N	H	Western Europe
+Kisqali	United Kingdom	N	H	Western Europe
+Parsabiv	United Kingdom	Y	H	Western Europe
+Tibsovo	United Kingdom	Y	H	Western Europe
+Ozempic	United Kingdom	Y	H	Western Europe
+Xermelo	United Kingdom	Y	H	Western Europe
+Dupixent	United Kingdom	Y	H	Western Europe
+Ocrevus	United Kingdom	Y	H	Western Europe
+Symproic	United Kingdom	Y	H	Western Europe
+Xadago	United Kingdom	Y	H	Western Europe
+Zejula	United Kingdom	Y	H	Western Europe
+Alunbrig	United Kingdom	Y	H	Western Europe
+Brineura	United Kingdom	Y	H	Western Europe
+Rydapt	United Kingdom	Y	H	Western Europe
+Emflaza	United Kingdom	Y	H	Western Europe
+Nerlynx	United Kingdom	Y	H	Western Europe
+Tremfya	United Kingdom	Y	H	Western Europe
+Vosevi	United Kingdom	Y	H	Western Europe
+Besponsa	United Kingdom	Y	H	Western Europe
+Vabomere	United Kingdom	Y	H	Western Europe
+Verzenio	United Kingdom	Y	H	Western Europe
+Calquence	United Kingdom	Y	H	Western Europe
+Hemlibra	United Kingdom	Y	H	Western Europe
+Giapreza	United Kingdom	Y	H	Western Europe
+Macrilen	United Kingdom	Y	H	Western Europe
+Copiktra	United Kingdom	Y	H	Western Europe
+Tavalisse	United Kingdom	Y	H	Western Europe
+Imfinzi	United Kingdom	Y	H	Western Europe
+Epidioloex	United Kingdom	Y	H	Western Europe
+Doptelet	United Kingdom	Y	H	Western Europe
+Erleada	United Kingdom	Y	H	Western Europe
+Xospata	United Kingdom	Y	H	Western Europe
+Vitrakvi	United Kingdom	Y	H	Western Europe
+Symdeko	United Kingdom	Y	H	Western Europe
+Talzenna	United Kingdom	Y	H	Western Europe
+Ultomiris	United Kingdom	Y	H	Western Europe
+Vizimpro	United Kingdom	Y	H	Western Europe
+Biktarvy	United Kingdom	Y	H	Western Europe
+Poteligeo	United Kingdom	Y	H	Western Europe
+Aimovig	United Kingdom	Y	H	Western Europe
+Braftovi	United Kingdom	Y	H	Western Europe
+Mektovi	United Kingdom	Y	H	Western Europe
+Takhzyro	United Kingdom	Y	H	Western Europe
+Fasenra	United Kingdom	Y	H	Western Europe
+Kevzara	United Kingdom	Y	H	Western Europe
+Emgality	United Kingdom	Y	H	Western Europe
+Onpattro	United Kingdom	Y	H	Western Europe
+Crysvita	United Kingdom	Y	H	Western Europe
+Lokelma	United Kingdom	Y	H	Western Europe
+Tegsedi	United Kingdom	Y	H	Western Europe
+Lutathera	United Kingdom	Y	H	Western Europe
+Oxervate	United Kingdom	Y	H	Western Europe
+Olumiant	United Kingdom	Y	H	Western Europe
+Galafold	United Kingdom	Y	H	Western Europe
+Motegrity	United Kingdom	Y	H	Western Europe
+Ocrevus	Uruguay	Y	H	Latin America and Carribean
